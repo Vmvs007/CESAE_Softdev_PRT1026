@@ -8,7 +8,7 @@ public class Ex01 {
 
         Scanner input = new Scanner(System.in);
 
-        // Criar variáveis
+        // Declarar variáveis
         int num1, num2, soma;
 
         // Ler valores do utilizador
