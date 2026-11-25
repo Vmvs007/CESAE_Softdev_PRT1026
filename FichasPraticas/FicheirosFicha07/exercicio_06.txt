@@ -11,6 +11,7 @@ Stephen Hawking,76
 Fernando Rocha,47
 Amalia Rodrigues,49
 Bruno Nogueira,40
+Joaquim,250
 Ricardo Araujo Pereira,44
 Herman Jose,69
 Rui Unas,47
