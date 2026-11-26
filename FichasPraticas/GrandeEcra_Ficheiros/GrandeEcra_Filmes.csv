@@ -1,0 +1,41 @@
+idFilme;titulo;genero;realizador;ano;duracao;idadeMinima;classificacao
+F001;Interstellar;Ficcao Cientifica;Christopher Nolan;2014;169;12;8.7
+F002;Shrek;Animacao;Andrew Adamson e Vicky Jenson;2001;90;6;7.9
+F003;Inception;Ficcao Cientifica;Christopher Nolan;2010;148;12;8.8
+F004;The Matrix;Ficcao Cientifica;Lana Wachowski e Lilly Wachowski;1999;136;16;8.7
+F005;Back to the Future;Ficcao Cientifica;Robert Zemeckis;1985;116;6;8.5
+F006;E.T. the Extra-Terrestrial;Ficcao Cientifica;Steven Spielberg;1982;115;6;7.9
+F007;Arrival;Ficcao Cientifica;Denis Villeneuve;2016;116;12;8.0
+F008;Dune;Ficcao Cientifica;Denis Villeneuve;2021;155;12;8.2
+F009;WALL-E;Animacao;Andrew Stanton;2008;98;6;8.4
+F010;Toy Story;Animacao;John Lasseter;1995;81;6;8.3
+F011;Finding Nemo;Animacao;Andrew Stanton;2003;100;6;8.1
+F012;The Lion King;Animacao;Roger Allers e Rob Minkoff;1994;88;6;9.0
+F013;Ratatouille;Animacao;Brad Bird;2007;111;6;8.2
+F014;Spirited Away;Animacao;Hayao Miyazaki;2001;125;6;9.1
+F015;Inside Out;Animacao;Pete Docter;2015;95;6;8.1
+F016;Paddington 2;Comedia;Paul King;2017;103;6;8.0
+F017;Home Alone;Comedia;Chris Columbus;1990;103;6;7.7
+F018;The Grand Budapest Hotel;Comedia;Wes Anderson;2014;99;12;8.2
+F019;Groundhog Day;Comedia;Harold Ramis;1993;101;6;8.0
+F020;A Cancao de Lisboa;Comedia;Cottinelli Telmo;1933;85;6;8.1
+F021;O Patio das Cantigas;Comedia;Francisco Ribeiro;1942;105;6;8.0
+F022;The Shawshank Redemption;Drama;Frank Darabont;1994;142;16;9.3
+F023;Forrest Gump;Drama;Robert Zemeckis;1994;142;12;8.8
+F024;The Green Mile;Drama;Frank Darabont;1999;189;16;8.6
+F025;Whiplash;Drama;Damien Chazelle;2014;106;16;8.5
+F026;The Truman Show;Drama;Peter Weir;1998;103;12;8.2
+F027;The Dark Knight;Acao;Christopher Nolan;2008;152;16;9.0
+F028;Gladiator;Acao;Ridley Scott;2000;155;16;8.5
+F029;Mad Max: Fury Road;Acao;George Miller;2015;120;16;8.1
+F030;Die Hard;Acao;John McTiernan;1988;132;16;8.2
+F031;Jurassic Park;Aventura;Steven Spielberg;1993;127;12;8.3
+F032;Raiders of the Lost Ark;Aventura;Steven Spielberg;1981;115;12;8.4
+F033;The Lord of the Rings: The Fellowship of the Ring;Fantasia;Peter Jackson;2001;178;12;8.9
+F034;Harry Potter and the Philosopher's Stone;Fantasia;Chris Columbus;2001;152;12;7.7
+F035;The Princess Bride;Fantasia;Rob Reiner;1987;98;6;8.0
+F036;Psycho;Terror;Alfred Hitchcock;1960;109;16;8.5
+F037;Jaws;Terror;Steven Spielberg;1975;124;12;8.1
+F038;The Shining;Terror;Stanley Kubrick;1980;146;18;8.4
+F039;Titanic;Romance;James Cameron;1997;194;12;8.0
+F040;La La Land;Romance;Damien Chazelle;2016;128;12;8.1

@@ -1,0 +1,1501 @@
+idBilhete;idCliente;nomeCliente;contacto;email;filme;sala;data;hora;tipoBilhete;valor
+B001;1;Ivone Costa;910000001;ivone@example.com;Interstellar;Mar;2026-12-01;18:00;NORMAL;8.50
+B002;2;Joaquim Alberto;910000002;quim@example.com;Interstellar;Mar;2026-12-01;18:00;ESTUDANTE;6.50
+B917;71;Manuel Cardoso;910000071;cliente071@example.com;Die Hard;Sol;2026-12-05;18:00;ESTUDANTE;8.50
+B1026;42;Luís Pinto;910000042;cliente042@example.com;Interstellar;Terra;2026-12-06;14:00;ESTUDANTE;7.50
+B613;97;Carolina Ferreira;910000097;cliente097@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;ESTUDANTE;8.50
+B504;23;Teresa Matos;910000023;cliente023@example.com;Spirited Away;Mar;2026-12-03;18:00;NORMAL;8.50
+B1439;54;Luís Rodrigues;910000054;cliente054@example.com;The Dark Knight;Terra;2026-12-08;18:00;SENIOR;8.00
+B837;66;Luís Rocha;910000066;cliente066@example.com;The Truman Show;Mar;2026-12-05;18:00;NORMAL;8.50
+B757;69;Carlos Rocha;910000069;cliente069@example.com;Forrest Gump;Sol;2026-12-04;14:00;ESTUDANTE;8.50
+B1156;63;Pedro Mendes;910000063;cliente063@example.com;Inception;Mar;2026-12-07;18:00;ESTUDANTE;6.50
+B342;87;Francisco Correia;910000087;cliente087@example.com;WALL-E;Terra;2026-12-02;14:00;NORMAL;9.50
+B274;83;Marta Ribeiro;910000083;cliente083@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1084;24;Duarte Mendes;910000024;cliente024@example.com;Shrek;Sol;2026-12-06;18:00;NORMAL;10.50
+B1247;61;Ricardo Lopes;910000061;cliente061@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B1182;38;Eduarda Dias;910000038;cliente038@example.com;Inception;Terra;2026-12-07;14:00;NORMAL;9.50
+B1053;98;Carlos Oliveira;910000098;cliente098@example.com;Interstellar;Terra;2026-12-06;18:00;NORMAL;9.50
+B836;92;Teresa Neves;910000092;cliente092@example.com;The Truman Show;Mar;2026-12-05;18:00;SENIOR;7.00
+B384;86;Cláudia Teixeira;910000086;cliente086@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B769;11;Filipa Marques;910000011;cliente011@example.com;The Green Mile;Sol;2026-12-04;18:00;ESTUDANTE;8.50
+B1134;80;Bruno Ribeiro;910000080;cliente080@example.com;Shrek;Mar;2026-12-07;14:00;ESTUDANTE;6.50
+B615;11;Filipa Marques;910000011;cliente011@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;SENIOR;9.00
+B1209;52;Carlos Ferreira;910000052;cliente052@example.com;Inception;Terra;2026-12-07;18:00;ESTUDANTE;7.50
+B1357;12;Pedro Correia;910000012;cliente012@example.com;The Lion King;Mar;2026-12-08;18:00;NORMAL;8.50
+B183;20;Bruno Marques;910000020;cliente020@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1436;84;Eduarda Ramos;910000084;cliente084@example.com;The Dark Knight;Terra;2026-12-08;18:00;NORMAL;9.50
+B813;86;Cláudia Teixeira;910000086;cliente086@example.com;Whiplash;Mar;2026-12-05;14:00;NORMAL;8.50
+B1479;19;Rita Rodrigues;910000019;cliente019@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;NORMAL;10.50
+B996;14;Nuno Silva;910000014;cliente014@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;NORMAL;8.50
+B179;11;Filipa Marques;910000011;cliente011@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B591;79;Madalena Pinto;910000079;cliente079@example.com;Home Alone;Sol;2026-12-03;14:00;NORMAL;10.50
+B055;50;Teresa Vieira;910000050;cliente050@example.com;Shrek;Mar;2026-12-01;14:00;SENIOR;7.00
+B737;31;Carlos Teixeira;910000031;cliente031@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;SENIOR;8.00
+B698;42;Luís Pinto;910000042;cliente042@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;NORMAL;8.50
+B805;32;Madalena Ribeiro;910000032;cliente032@example.com;Whiplash;Mar;2026-12-05;14:00;NORMAL;8.50
+B235;90;Luís Sousa;910000090;cliente090@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B456;79;Madalena Pinto;910000079;cliente079@example.com;Ratatouille;Mar;2026-12-03;14:00;SENIOR;7.00
+B829;77;Bruno Ramos;910000077;cliente077@example.com;The Truman Show;Mar;2026-12-05;18:00;NORMAL;8.50
+B742;72;Mariana Rocha;910000072;cliente072@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;NORMAL;9.50
+B293;46;Manuel Pinto;910000046;cliente046@example.com;Arrival;Mar;2026-12-02;14:00;NORMAL;8.50
+B721;45;Madalena Ferreira;910000045;cliente045@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;SENIOR;8.00
+B1497;35;Mariana Marques;910000035;cliente035@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;SENIOR;9.00
+B350;52;Carlos Ferreira;910000052;cliente052@example.com;Toy Story;Terra;2026-12-02;18:00;NORMAL;9.50
+B1301;81;Bruno Gomes;910000081;cliente081@example.com;WALL-E;Mar;2026-12-08;14:00;ESTUDANTE;6.50
+B1228;48;João Marques;910000048;cliente048@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B206;70;Duarte Rodrigues;910000070;cliente070@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B184;8;Gabriela Mendes;910000008;cliente008@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1446;91;António Ribeiro;910000091;cliente091@example.com;The Dark Knight;Terra;2026-12-08;18:00;NORMAL;9.50
+B1425;98;Carlos Oliveira;910000098;cliente098@example.com;The Dark Knight;Terra;2026-12-08;18:00;ESTUDANTE;7.50
+B059;6;Eduarda Costa;910000006;cliente006@example.com;Shrek;Mar;2026-12-01;14:00;SENIOR;7.00
+B329;7;Carlos Dias;910000007;cliente007@example.com;Dune;Mar;2026-12-02;18:00;NORMAL;8.50
+B289;40;Catarina Neves;910000040;cliente040@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B697;56;Ana Ribeiro;910000056;cliente056@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;ESTUDANTE;6.50
+B868;73;José Silva;910000073;cliente073@example.com;The Dark Knight;Terra;2026-12-05;14:00;SENIOR;8.00
+B879;1;Ivone Costa;910000001;ivone@example.com;Gladiator;Terra;2026-12-05;18:00;NORMAL;9.50
+B213;43;Teresa Reis;910000043;cliente043@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B445;58;Bruno Fernandes;910000058;cliente058@example.com;The Lion King;Sol;2026-12-02;18:00;ESTUDANTE;8.50
+B250;53;Rui Teixeira;910000053;cliente053@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1274;93;Hugo Martins;910000093;cliente093@example.com;Back to the Future;Sol;2026-12-07;18:00;NORMAL;10.50
+B1183;21;José Moreira;910000021;cliente021@example.com;Inception;Terra;2026-12-07;14:00;SENIOR;8.00
+B1206;35;Mariana Marques;910000035;cliente035@example.com;Inception;Terra;2026-12-07;18:00;ESTUDANTE;7.50
+B200;45;Madalena Ferreira;910000045;cliente045@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B232;96;Inês Cardoso;910000096;cliente096@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1451;45;Madalena Ferreira;910000045;cliente045@example.com;The Dark Knight;Terra;2026-12-08;18:00;NORMAL;9.50
+B1500;38;Eduarda Dias;910000038;cliente038@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;ESTUDANTE;8.50
+B541;52;Carlos Ferreira;910000052;cliente052@example.com;Inside Out;Terra;2026-12-03;14:00;ESTUDANTE;7.50
+B527;20;Bruno Marques;910000020;cliente020@example.com;Spirited Away;Mar;2026-12-03;18:00;NORMAL;8.50
+B377;12;Pedro Correia;910000012;cliente012@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B1484;97;Carolina Ferreira;910000097;cliente097@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;ESTUDANTE;8.50
+B066;77;Bruno Ramos;910000077;cliente077@example.com;Inception;Terra;2026-12-01;14:00;ESTUDANTE;7.50
+B1088;99;Carolina Gomes;910000099;cliente099@example.com;Shrek;Sol;2026-12-06;18:00;NORMAL;10.50
+B898;33;Diana Silva;910000033;cliente033@example.com;Mad Max: Fury Road;Sol;2026-12-05;14:00;ESTUDANTE;8.50
+B400;100;Catarina Marques;910000100;cliente100@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B1113;48;João Marques;910000048;cliente048@example.com;Shrek;Mar;2026-12-07;14:00;NORMAL;8.50
+B227;3;Carlos Reis;910000003;cliente003@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1476;32;Madalena Ribeiro;910000032;cliente032@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;NORMAL;10.50
+B1362;29;Duarte Fernandes;910000029;cliente029@example.com;The Lion King;Mar;2026-12-08;18:00;NORMAL;8.50
+B175;97;Carolina Ferreira;910000097;cliente097@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B743;63;Pedro Mendes;910000063;cliente063@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;ESTUDANTE;7.50
+B267;6;Eduarda Costa;910000006;cliente006@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B983;91;António Ribeiro;910000091;cliente091@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;NORMAL;8.50
+B1008;68;Cláudia Martins;910000068;cliente068@example.com;Interstellar;Terra;2026-12-06;14:00;NORMAL;9.50
+B666;38;Eduarda Dias;910000038;cliente038@example.com;Groundhog Day;Mar;2026-12-04;14:00;ESTUDANTE;6.50
+B1092;29;Duarte Fernandes;910000029;cliente029@example.com;Shrek;Sol;2026-12-06;18:00;NORMAL;10.50
+B145;75;Bruno Ferreira;910000075;cliente075@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B1347;29;Duarte Fernandes;910000029;cliente029@example.com;The Lion King;Mar;2026-12-08;18:00;ESTUDANTE;6.50
+B595;94;Miguel Matos;910000094;cliente094@example.com;Home Alone;Sol;2026-12-03;14:00;NORMAL;10.50
+B682;69;Carlos Rocha;910000069;cliente069@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;ESTUDANTE;6.50
+B798;83;Marta Ribeiro;910000083;cliente083@example.com;Whiplash;Mar;2026-12-05;14:00;SENIOR;7.00
+B1367;54;Luís Rodrigues;910000054;cliente054@example.com;The Lion King;Mar;2026-12-08;18:00;NORMAL;8.50
+B1115;17;Miguel Ribeiro;910000017;cliente017@example.com;Shrek;Mar;2026-12-07;14:00;NORMAL;8.50
+B465;81;Bruno Gomes;910000081;cliente081@example.com;Ratatouille;Mar;2026-12-03;14:00;NORMAL;8.50
+B046;7;Carlos Dias;910000007;cliente007@example.com;Interstellar;Mar;2026-12-01;18:00;ESTUDANTE;6.50
+B1094;81;Bruno Gomes;910000081;cliente081@example.com;Shrek;Sol;2026-12-06;18:00;ESTUDANTE;8.50
+B748;11;Filipa Marques;910000011;cliente011@example.com;The Shawshank Redemption;Terra;2026-12-04;18:00;ESTUDANTE;7.50
+B207;71;Manuel Cardoso;910000071;cliente071@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B423;57;Vera Rodrigues;910000057;cliente057@example.com;The Lion King;Sol;2026-12-02;18:00;ESTUDANTE;8.50
+B468;76;Beatriz Reis;910000076;cliente076@example.com;Ratatouille;Mar;2026-12-03;14:00;ESTUDANTE;6.50
+B1149;65;Ricardo Rocha;910000065;cliente065@example.com;Inception;Mar;2026-12-07;18:00;NORMAL;8.50
+B1154;46;Manuel Pinto;910000046;cliente046@example.com;Inception;Mar;2026-12-07;18:00;ESTUDANTE;6.50
+B045;86;Cláudia Teixeira;910000086;cliente086@example.com;Interstellar;Mar;2026-12-01;18:00;NORMAL;8.50
+B292;94;Miguel Matos;910000094;cliente094@example.com;E.T. the Extra-Terrestrial;Sol;2026-12-01;18:00;NORMAL;10.50
+B1103;46;Manuel Pinto;910000046;cliente046@example.com;Shrek;Mar;2026-12-07;14:00;NORMAL;8.50
+B1435;56;Ana Ribeiro;910000056;cliente056@example.com;The Dark Knight;Terra;2026-12-08;18:00;ESTUDANTE;7.50
+B656;81;Bruno Gomes;910000081;cliente081@example.com;Groundhog Day;Mar;2026-12-04;14:00;NORMAL;8.50
+B1433;14;Nuno Silva;910000014;cliente014@example.com;The Dark Knight;Terra;2026-12-08;18:00;NORMAL;9.50
+B900;65;Ricardo Rocha;910000065;cliente065@example.com;Mad Max: Fury Road;Sol;2026-12-05;14:00;ESTUDANTE;8.50
+B1009;3;Carlos Reis;910000003;cliente003@example.com;Interstellar;Terra;2026-12-06;14:00;NORMAL;9.50
+B1238;77;Bruno Ramos;910000077;cliente077@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B1398;95;Afonso Gomes;910000095;cliente095@example.com;Forrest Gump;Terra;2026-12-08;14:00;NORMAL;9.50
+B496;3;Carlos Reis;910000003;cliente003@example.com;Ratatouille;Mar;2026-12-03;14:00;ESTUDANTE;6.50
+B602;3;Carlos Reis;910000003;cliente003@example.com;Home Alone;Sol;2026-12-03;14:00;NORMAL;10.50
+B1279;55;Helena Silva;910000055;cliente055@example.com;Back to the Future;Sol;2026-12-07;18:00;NORMAL;10.50
+B420;31;Carlos Teixeira;910000031;cliente031@example.com;The Lion King;Sol;2026-12-02;18:00;ESTUDANTE;8.50
+B093;65;Ricardo Rocha;910000065;cliente065@example.com;The Matrix;Terra;2026-12-01;18:00;NORMAL;9.50
+B523;3;Carlos Reis;910000003;cliente003@example.com;Spirited Away;Mar;2026-12-03;18:00;NORMAL;8.50
+B471;60;Manuel Sousa;910000060;cliente060@example.com;Ratatouille;Mar;2026-12-03;14:00;NORMAL;8.50
+B544;78;Duarte Moreira;910000078;cliente078@example.com;Inside Out;Terra;2026-12-03;14:00;SENIOR;8.00
+B1404;1;Ivone Costa;910000001;ivone@example.com;Forrest Gump;Terra;2026-12-08;14:00;SENIOR;8.00
+B158;88;Duarte Vieira;910000088;cliente088@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B138;67;André Almeida;910000067;cliente067@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1129;70;Duarte Rodrigues;910000070;cliente070@example.com;Shrek;Mar;2026-12-07;14:00;ESTUDANTE;6.50
+B278;87;Francisco Correia;910000087;cliente087@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B1464;12;Pedro Correia;910000012;cliente012@example.com;Jurassic Park;Sol;2026-12-08;14:00;ESTUDANTE;8.50
+B1145;68;Cláudia Martins;910000068;cliente068@example.com;Inception;Mar;2026-12-07;18:00;NORMAL;8.50
+B1023;38;Eduarda Dias;910000038;cliente038@example.com;Interstellar;Terra;2026-12-06;14:00;NORMAL;9.50
+B1466;44;Teresa Rocha;910000044;cliente044@example.com;Jurassic Park;Sol;2026-12-08;14:00;NORMAL;10.50
+B410;15;Bruno Santos;910000015;cliente015@example.com;Finding Nemo;Sol;2026-12-02;14:00;SENIOR;9.00
+B334;74;Inês Vieira;910000074;cliente074@example.com;WALL-E;Terra;2026-12-02;14:00;NORMAL;9.50
+B466;93;Hugo Martins;910000093;cliente093@example.com;Ratatouille;Mar;2026-12-03;14:00;NORMAL;8.50
+B535;69;Carlos Rocha;910000069;cliente069@example.com;Spirited Away;Mar;2026-12-03;18:00;NORMAL;8.50
+B770;80;Bruno Ribeiro;910000080;cliente080@example.com;The Green Mile;Sol;2026-12-04;18:00;NORMAL;10.50
+B023;40;Catarina Neves;910000040;cliente040@example.com;Interstellar;Mar;2026-12-01;18:00;SENIOR;7.00
+B912;21;José Moreira;910000021;cliente021@example.com;Mad Max: Fury Road;Sol;2026-12-05;14:00;NORMAL;10.50
+B870;71;Manuel Cardoso;910000071;cliente071@example.com;Gladiator;Terra;2026-12-05;18:00;NORMAL;9.50
+B998;89;Carlos Rodrigues;910000089;cliente089@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;NORMAL;8.50
+B503;22;Leonor Rocha;910000022;cliente022@example.com;Spirited Away;Mar;2026-12-03;18:00;NORMAL;8.50
+B924;11;Filipa Marques;910000011;cliente011@example.com;Die Hard;Sol;2026-12-05;18:00;ESTUDANTE;8.50
+B1155;40;Catarina Neves;910000040;cliente040@example.com;Inception;Mar;2026-12-07;18:00;NORMAL;8.50
+B1416;47;Diogo Pereira;910000047;cliente047@example.com;The Dark Knight;Terra;2026-12-08;18:00;NORMAL;9.50
+B1097;89;Carlos Rodrigues;910000089;cliente089@example.com;Shrek;Sol;2026-12-06;18:00;SENIOR;9.00
+B786;94;Miguel Matos;910000094;cliente094@example.com;Whiplash;Mar;2026-12-05;14:00;ESTUDANTE;6.50
+B1316;11;Filipa Marques;910000011;cliente011@example.com;WALL-E;Mar;2026-12-08;14:00;SENIOR;7.00
+B1207;50;Teresa Vieira;910000050;cliente050@example.com;Inception;Terra;2026-12-07;18:00;NORMAL;9.50
+B1354;58;Bruno Fernandes;910000058;cliente058@example.com;The Lion King;Mar;2026-12-08;18:00;ESTUDANTE;6.50
+B1275;29;Duarte Fernandes;910000029;cliente029@example.com;Back to the Future;Sol;2026-12-07;18:00;NORMAL;10.50
+B1059;76;Beatriz Reis;910000076;cliente076@example.com;Interstellar;Sol;2026-12-06;14:00;NORMAL;10.50
+B1223;53;Rui Teixeira;910000053;cliente053@example.com;The Matrix;Sol;2026-12-07;14:00;ESTUDANTE;8.50
+B853;41;Inês Santos;910000041;cliente041@example.com;The Truman Show;Mar;2026-12-05;18:00;NORMAL;8.50
+B923;36;Manuel Fernandes;910000036;cliente036@example.com;Die Hard;Sol;2026-12-05;18:00;ESTUDANTE;8.50
+B1432;38;Eduarda Dias;910000038;cliente038@example.com;The Dark Knight;Terra;2026-12-08;18:00;NORMAL;9.50
+B263;94;Miguel Matos;910000094;cliente094@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1152;42;Luís Pinto;910000042;cliente042@example.com;Inception;Mar;2026-12-07;18:00;NORMAL;8.50
+B426;98;Carlos Oliveira;910000098;cliente098@example.com;The Lion King;Sol;2026-12-02;18:00;ESTUDANTE;8.50
+B271;78;Duarte Moreira;910000078;cliente078@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B497;7;Carlos Dias;910000007;cliente007@example.com;Spirited Away;Mar;2026-12-03;18:00;ESTUDANTE;6.50
+B188;84;Eduarda Ramos;910000084;cliente084@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B846;48;João Marques;910000048;cliente048@example.com;The Truman Show;Mar;2026-12-05;18:00;ESTUDANTE;6.50
+B1165;19;Rita Rodrigues;910000019;cliente019@example.com;Inception;Terra;2026-12-07;14:00;NORMAL;9.50
+B624;22;Leonor Rocha;910000022;cliente022@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B668;34;Hugo Gomes;910000034;cliente034@example.com;Groundhog Day;Mar;2026-12-04;14:00;ESTUDANTE;6.50
+B1190;95;Afonso Gomes;910000095;cliente095@example.com;Inception;Terra;2026-12-07;18:00;NORMAL;9.50
+B1192;53;Rui Teixeira;910000053;cliente053@example.com;Inception;Terra;2026-12-07;18:00;ESTUDANTE;7.50
+B549;10;António Rocha;910000010;cliente010@example.com;Inside Out;Terra;2026-12-03;14:00;SENIOR;8.00
+B683;23;Teresa Matos;910000023;cliente023@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;NORMAL;8.50
+B700;31;Carlos Teixeira;910000031;cliente031@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;NORMAL;8.50
+B877;28;Diana Reis;910000028;cliente028@example.com;Gladiator;Terra;2026-12-05;18:00;NORMAL;9.50
+B008;41;Inês Santos;910000041;cliente041@example.com;Interstellar;Mar;2026-12-01;18:00;NORMAL;8.50
+B778;31;Carlos Teixeira;910000031;cliente031@example.com;Whiplash;Mar;2026-12-05;14:00;ESTUDANTE;6.50
+B070;67;André Almeida;910000067;cliente067@example.com;Inception;Terra;2026-12-01;14:00;NORMAL;9.50
+B1423;43;Teresa Reis;910000043;cliente043@example.com;The Dark Knight;Terra;2026-12-08;18:00;ESTUDANTE;7.50
+B132;77;Bruno Ramos;910000077;cliente077@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B1004;54;Luís Rodrigues;910000054;cliente054@example.com;Interstellar;Terra;2026-12-06;14:00;NORMAL;9.50
+B197;11;Filipa Marques;910000011;cliente011@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B562;33;Diana Silva;910000033;cliente033@example.com;Inside Out;Terra;2026-12-03;14:00;NORMAL;9.50
+B642;62;Ricardo Gomes;910000062;cliente062@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;ESTUDANTE;8.50
+B460;72;Mariana Rocha;910000072;cliente072@example.com;Ratatouille;Mar;2026-12-03;14:00;ESTUDANTE;6.50
+B060;72;Mariana Rocha;910000072;cliente072@example.com;Shrek;Mar;2026-12-01;14:00;ESTUDANTE;6.50
+B1203;60;Manuel Sousa;910000060;cliente060@example.com;Inception;Terra;2026-12-07;18:00;NORMAL;9.50
+B036;81;Bruno Gomes;910000081;cliente081@example.com;Interstellar;Mar;2026-12-01;18:00;ESTUDANTE;6.50
+B1314;33;Diana Silva;910000033;cliente033@example.com;WALL-E;Mar;2026-12-08;14:00;NORMAL;8.50
+B1024;92;Teresa Neves;910000092;cliente092@example.com;Interstellar;Terra;2026-12-06;14:00;ESTUDANTE;7.50
+B568;99;Carolina Gomes;910000099;cliente099@example.com;Paddington 2;Terra;2026-12-03;18:00;SENIOR;8.00
+B1494;1;Ivone Costa;910000001;ivone@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;ESTUDANTE;8.50
+B782;85;Gonçalo Rocha;910000085;cliente085@example.com;Whiplash;Mar;2026-12-05;14:00;NORMAL;8.50
+B1213;56;Ana Ribeiro;910000056;cliente056@example.com;Inception;Terra;2026-12-07;18:00;NORMAL;9.50
+B701;70;Duarte Rodrigues;910000070;cliente070@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;ESTUDANTE;6.50
+B397;98;Carlos Oliveira;910000098;cliente098@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B312;97;Carolina Ferreira;910000097;cliente097@example.com;Dune;Mar;2026-12-02;18:00;SENIOR;7.00
+B257;31;Carlos Teixeira;910000031;cliente031@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B753;73;José Silva;910000073;cliente073@example.com;The Shawshank Redemption;Terra;2026-12-04;18:00;NORMAL;9.50
+B736;97;Carolina Ferreira;910000097;cliente097@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;NORMAL;9.50
+B280;37;Catarina Correia;910000037;cliente037@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B942;52;Carlos Ferreira;910000052;cliente052@example.com;Jurassic Park;Mar;2026-12-06;14:00;NORMAL;8.50
+B348;24;Duarte Mendes;910000024;cliente024@example.com;Toy Story;Terra;2026-12-02;18:00;ESTUDANTE;7.50
+B1055;64;Afonso Rodrigues;910000064;cliente064@example.com;Interstellar;Terra;2026-12-06;18:00;NORMAL;9.50
+B1366;54;Luís Rodrigues;910000054;cliente054@example.com;The Lion King;Mar;2026-12-08;18:00;ESTUDANTE;6.50
+B032;20;Bruno Marques;910000020;cliente020@example.com;Interstellar;Mar;2026-12-01;18:00;ESTUDANTE;6.50
+B1282;4;Ana Teixeira;910000004;cliente004@example.com;Back to the Future;Sol;2026-12-07;18:00;ESTUDANTE;8.50
+B1025;73;José Silva;910000073;cliente073@example.com;Interstellar;Terra;2026-12-06;14:00;NORMAL;9.50
+B1336;17;Miguel Ribeiro;910000017;cliente017@example.com;The Lion King;Mar;2026-12-08;18:00;ESTUDANTE;6.50
+B641;64;Afonso Rodrigues;910000064;cliente064@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;ESTUDANTE;8.50
+B990;67;André Almeida;910000067;cliente067@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;SENIOR;7.00
+B372;91;António Ribeiro;910000091;cliente091@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B857;10;António Rocha;910000010;cliente010@example.com;The Truman Show;Mar;2026-12-05;18:00;ESTUDANTE;6.50
+B1323;54;Luís Rodrigues;910000054;cliente054@example.com;WALL-E;Mar;2026-12-08;14:00;NORMAL;8.50
+B545;88;Duarte Vieira;910000088;cliente088@example.com;Inside Out;Terra;2026-12-03;14:00;ESTUDANTE;7.50
+B044;33;Diana Silva;910000033;cliente033@example.com;Interstellar;Mar;2026-12-01;18:00;SENIOR;7.00
+B521;49;Catarina Martins;910000049;cliente049@example.com;Spirited Away;Mar;2026-12-03;18:00;NORMAL;8.50
+B1104;10;António Rocha;910000010;cliente010@example.com;Shrek;Mar;2026-12-07;14:00;NORMAL;8.50
+B1330;32;Madalena Ribeiro;910000032;cliente032@example.com;The Lion King;Mar;2026-12-08;18:00;NORMAL;8.50
+B583;33;Diana Silva;910000033;cliente033@example.com;Home Alone;Sol;2026-12-03;14:00;NORMAL;10.50
+B1137;48;João Marques;910000048;cliente048@example.com;Shrek;Mar;2026-12-07;14:00;SENIOR;7.00
+B009;26;Luís Marques;910000026;cliente026@example.com;Interstellar;Mar;2026-12-01;18:00;ESTUDANTE;6.50
+B863;84;Eduarda Ramos;910000084;cliente084@example.com;The Dark Knight;Terra;2026-12-05;14:00;NORMAL;9.50
+B131;26;Luís Marques;910000026;cliente026@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B155;22;Leonor Rocha;910000022;cliente022@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B667;83;Marta Ribeiro;910000083;cliente083@example.com;Groundhog Day;Mar;2026-12-04;14:00;SENIOR;7.00
+B1349;87;Francisco Correia;910000087;cliente087@example.com;The Lion King;Mar;2026-12-08;18:00;NORMAL;8.50
+B1326;76;Beatriz Reis;910000076;cliente076@example.com;WALL-E;Mar;2026-12-08;14:00;ESTUDANTE;6.50
+B352;24;Duarte Mendes;910000024;cliente024@example.com;Toy Story;Terra;2026-12-02;18:00;ESTUDANTE;7.50
+B1294;92;Teresa Neves;910000092;cliente092@example.com;Back to the Future;Sol;2026-12-07;18:00;NORMAL;10.50
+B1157;35;Mariana Marques;910000035;cliente035@example.com;Inception;Mar;2026-12-07;18:00;NORMAL;8.50
+B819;35;Mariana Marques;910000035;cliente035@example.com;Whiplash;Mar;2026-12-05;14:00;NORMAL;8.50
+B1300;46;Manuel Pinto;910000046;cliente046@example.com;WALL-E;Mar;2026-12-08;14:00;ESTUDANTE;6.50
+B831;96;Inês Cardoso;910000096;cliente096@example.com;The Truman Show;Mar;2026-12-05;18:00;NORMAL;8.50
+B1421;97;Carolina Ferreira;910000097;cliente097@example.com;The Dark Knight;Terra;2026-12-08;18:00;SENIOR;8.00
+B1143;65;Ricardo Rocha;910000065;cliente065@example.com;Inception;Mar;2026-12-07;18:00;ESTUDANTE;6.50
+B921;19;Rita Rodrigues;910000019;cliente019@example.com;Die Hard;Sol;2026-12-05;18:00;ESTUDANTE;8.50
+B1116;89;Carlos Rodrigues;910000089;cliente089@example.com;Shrek;Mar;2026-12-07;14:00;NORMAL;8.50
+B1431;44;Teresa Rocha;910000044;cliente044@example.com;The Dark Knight;Terra;2026-12-08;18:00;NORMAL;9.50
+B005;79;Madalena Pinto;910000079;cliente079@example.com;Interstellar;Mar;2026-12-01;18:00;ESTUDANTE;6.50
+B498;59;Inês Moreira;910000059;cliente059@example.com;Spirited Away;Mar;2026-12-03;18:00;NORMAL;8.50
+B904;78;Duarte Moreira;910000078;cliente078@example.com;Mad Max: Fury Road;Sol;2026-12-05;14:00;NORMAL;10.50
+B202;68;Cláudia Martins;910000068;cliente068@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B1410;92;Teresa Neves;910000092;cliente092@example.com;Forrest Gump;Terra;2026-12-08;14:00;NORMAL;9.50
+B110;86;Cláudia Teixeira;910000086;cliente086@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1374;2;Joaquim Alberto;910000002;quim@example.com;Forrest Gump;Terra;2026-12-08;14:00;NORMAL;9.50
+B651;36;Manuel Fernandes;910000036;cliente036@example.com;Groundhog Day;Mar;2026-12-04;14:00;NORMAL;8.50
+B945;96;Inês Cardoso;910000096;cliente096@example.com;Jurassic Park;Mar;2026-12-06;14:00;ESTUDANTE;6.50
+B003;94;Miguel Matos;910000094;cliente094@example.com;Interstellar;Mar;2026-12-01;18:00;ESTUDANTE;6.50
+B795;70;Duarte Rodrigues;910000070;cliente070@example.com;Whiplash;Mar;2026-12-05;14:00;NORMAL;8.50
+B714;60;Manuel Sousa;910000060;cliente060@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;ESTUDANTE;6.50
+B564;8;Gabriela Mendes;910000008;cliente008@example.com;Paddington 2;Terra;2026-12-03;18:00;ESTUDANTE;7.50
+B1174;100;Catarina Marques;910000100;cliente100@example.com;Inception;Terra;2026-12-07;14:00;SENIOR;8.00
+B878;67;André Almeida;910000067;cliente067@example.com;Gladiator;Terra;2026-12-05;18:00;SENIOR;8.00
+B686;50;Teresa Vieira;910000050;cliente050@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;ESTUDANTE;6.50
+B926;70;Duarte Rodrigues;910000070;cliente070@example.com;Die Hard;Sol;2026-12-05;18:00;NORMAL;10.50
+B1065;31;Carlos Teixeira;910000031;cliente031@example.com;Interstellar;Sol;2026-12-06;14:00;NORMAL;10.50
+B1427;1;Ivone Costa;910000001;ivone@example.com;The Dark Knight;Terra;2026-12-08;18:00;ESTUDANTE;7.50
+B1278;42;Luís Pinto;910000042;cliente042@example.com;Back to the Future;Sol;2026-12-07;18:00;NORMAL;10.50
+B928;12;Pedro Correia;910000012;cliente012@example.com;Die Hard;Sol;2026-12-05;18:00;NORMAL;10.50
+B343;44;Teresa Rocha;910000044;cliente044@example.com;WALL-E;Terra;2026-12-02;14:00;NORMAL;9.50
+B1420;79;Madalena Pinto;910000079;cliente079@example.com;The Dark Knight;Terra;2026-12-08;18:00;NORMAL;9.50
+B408;15;Bruno Santos;910000015;cliente015@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B628;68;Cláudia Martins;910000068;cliente068@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B1315;20;Bruno Marques;910000020;cliente020@example.com;WALL-E;Mar;2026-12-08;14:00;NORMAL;8.50
+B1373;97;Carolina Ferreira;910000097;cliente097@example.com;Forrest Gump;Terra;2026-12-08;14:00;ESTUDANTE;7.50
+B057;30;Carlos Correia;910000030;cliente030@example.com;Shrek;Mar;2026-12-01;14:00;SENIOR;7.00
+B550;6;Eduarda Costa;910000006;cliente006@example.com;Inside Out;Terra;2026-12-03;14:00;SENIOR;8.00
+B807;58;Bruno Fernandes;910000058;cliente058@example.com;Whiplash;Mar;2026-12-05;14:00;NORMAL;8.50
+B1197;22;Leonor Rocha;910000022;cliente022@example.com;Inception;Terra;2026-12-07;18:00;NORMAL;9.50
+B1201;12;Pedro Correia;910000012;cliente012@example.com;Inception;Terra;2026-12-07;18:00;ESTUDANTE;7.50
+B224;44;Teresa Rocha;910000044;cliente044@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B887;76;Beatriz Reis;910000076;cliente076@example.com;Gladiator;Terra;2026-12-05;18:00;NORMAL;9.50
+B1271;26;Luís Marques;910000026;cliente026@example.com;Back to the Future;Sol;2026-12-07;18:00;ESTUDANTE;8.50
+B955;9;Rui Rodrigues;910000009;cliente009@example.com;Jurassic Park;Mar;2026-12-06;14:00;SENIOR;7.00
+B797;4;Ana Teixeira;910000004;cliente004@example.com;Whiplash;Mar;2026-12-05;14:00;NORMAL;8.50
+B856;24;Duarte Mendes;910000024;cliente024@example.com;The Truman Show;Mar;2026-12-05;18:00;NORMAL;8.50
+B326;27;Sofia Cardoso;910000027;cliente027@example.com;Dune;Mar;2026-12-02;18:00;NORMAL;8.50
+B484;83;Marta Ribeiro;910000083;cliente083@example.com;Ratatouille;Mar;2026-12-03;14:00;ESTUDANTE;6.50
+B1184;46;Manuel Pinto;910000046;cliente046@example.com;Inception;Terra;2026-12-07;14:00;SENIOR;8.00
+B1162;85;Gonçalo Rocha;910000085;cliente085@example.com;Inception;Terra;2026-12-07;14:00;NORMAL;9.50
+B1095;60;Manuel Sousa;910000060;cliente060@example.com;Shrek;Sol;2026-12-06;18:00;ESTUDANTE;8.50
+B1080;77;Bruno Ramos;910000077;cliente077@example.com;Interstellar;Sol;2026-12-06;14:00;NORMAL;10.50
+B1166;39;Vera Dias;910000039;cliente039@example.com;Inception;Terra;2026-12-07;14:00;ESTUDANTE;7.50
+B750;90;Luís Sousa;910000090;cliente090@example.com;The Shawshank Redemption;Terra;2026-12-04;18:00;ESTUDANTE;7.50
+B765;36;Manuel Fernandes;910000036;cliente036@example.com;Forrest Gump;Sol;2026-12-04;14:00;ESTUDANTE;8.50
+B266;61;Ricardo Lopes;910000061;cliente061@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B1485;9;Rui Rodrigues;910000009;cliente009@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;NORMAL;10.50
+B567;9;Rui Rodrigues;910000009;cliente009@example.com;Paddington 2;Terra;2026-12-03;18:00;NORMAL;9.50
+B720;52;Carlos Ferreira;910000052;cliente052@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;NORMAL;9.50
+B467;18;Hugo Lopes;910000018;cliente018@example.com;Ratatouille;Mar;2026-12-03;14:00;NORMAL;8.50
+B1214;24;Duarte Mendes;910000024;cliente024@example.com;Inception;Terra;2026-12-07;18:00;NORMAL;9.50
+B328;4;Ana Teixeira;910000004;cliente004@example.com;Dune;Mar;2026-12-02;18:00;ESTUDANTE;6.50
+B204;94;Miguel Matos;910000094;cliente094@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B301;61;Ricardo Lopes;910000061;cliente061@example.com;Arrival;Mar;2026-12-02;14:00;ESTUDANTE;6.50
+B768;100;Catarina Marques;910000100;cliente100@example.com;The Green Mile;Sol;2026-12-04;18:00;SENIOR;9.00
+B862;51;Gonçalo Costa;910000051;cliente051@example.com;The Dark Knight;Terra;2026-12-05;14:00;NORMAL;9.50
+B129;27;Sofia Cardoso;910000027;cliente027@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B689;35;Mariana Marques;910000035;cliente035@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;NORMAL;8.50
+B443;3;Carlos Reis;910000003;cliente003@example.com;The Lion King;Sol;2026-12-02;18:00;NORMAL;10.50
+B100;70;Duarte Rodrigues;910000070;cliente070@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B808;64;Afonso Rodrigues;910000064;cliente064@example.com;Whiplash;Mar;2026-12-05;14:00;NORMAL;8.50
+B075;13;Carolina Santos;910000013;cliente013@example.com;Inception;Terra;2026-12-01;14:00;NORMAL;9.50
+B153;6;Eduarda Costa;910000006;cliente006@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1405;39;Vera Dias;910000039;cliente039@example.com;Forrest Gump;Terra;2026-12-08;14:00;ESTUDANTE;7.50
+B363;2;Joaquim Alberto;910000002;quim@example.com;Finding Nemo;Sol;2026-12-02;14:00;ESTUDANTE;8.50
+B619;15;Bruno Santos;910000015;cliente015@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B1083;44;Teresa Rocha;910000044;cliente044@example.com;Shrek;Sol;2026-12-06;18:00;ESTUDANTE;8.50
+B419;90;Luís Sousa;910000090;cliente090@example.com;The Lion King;Sol;2026-12-02;18:00;NORMAL;10.50
+B486;31;Carlos Teixeira;910000031;cliente031@example.com;Ratatouille;Mar;2026-12-03;14:00;NORMAL;8.50
+B604;78;Duarte Moreira;910000078;cliente078@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;ESTUDANTE;8.50
+B135;82;Madalena Ramos;910000082;cliente082@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1460;1;Ivone Costa;910000001;ivone@example.com;Jurassic Park;Sol;2026-12-08;14:00;NORMAL;10.50
+B311;7;Carlos Dias;910000007;cliente007@example.com;Dune;Mar;2026-12-02;18:00;NORMAL;8.50
+B885;39;Vera Dias;910000039;cliente039@example.com;Gladiator;Terra;2026-12-05;18:00;NORMAL;9.50
+B848;82;Madalena Ramos;910000082;cliente082@example.com;The Truman Show;Mar;2026-12-05;18:00;NORMAL;8.50
+B944;58;Bruno Fernandes;910000058;cliente058@example.com;Jurassic Park;Mar;2026-12-06;14:00;NORMAL;8.50
+B1303;28;Diana Reis;910000028;cliente028@example.com;WALL-E;Mar;2026-12-08;14:00;ESTUDANTE;6.50
+B687;31;Carlos Teixeira;910000031;cliente031@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;ESTUDANTE;6.50
+B1481;25;Joana Rocha;910000025;cliente025@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;NORMAL;10.50
+B494;91;António Ribeiro;910000091;cliente091@example.com;Ratatouille;Mar;2026-12-03;14:00;NORMAL;8.50
+B332;83;Marta Ribeiro;910000083;cliente083@example.com;WALL-E;Terra;2026-12-02;14:00;NORMAL;9.50
+B1452;18;Hugo Lopes;910000018;cliente018@example.com;The Dark Knight;Terra;2026-12-08;18:00;NORMAL;9.50
+B1058;94;Miguel Matos;910000094;cliente094@example.com;Interstellar;Sol;2026-12-06;14:00;ESTUDANTE;8.50
+B389;61;Ricardo Lopes;910000061;cliente061@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B987;51;Gonçalo Costa;910000051;cliente051@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;NORMAL;8.50
+B515;41;Inês Santos;910000041;cliente041@example.com;Spirited Away;Mar;2026-12-03;18:00;SENIOR;7.00
+B694;52;Carlos Ferreira;910000052;cliente052@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;NORMAL;8.50
+B243;43;Teresa Reis;910000043;cliente043@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B1467;77;Bruno Ramos;910000077;cliente077@example.com;Jurassic Park;Sol;2026-12-08;14:00;ESTUDANTE;8.50
+B1019;93;Hugo Martins;910000093;cliente093@example.com;Interstellar;Terra;2026-12-06;14:00;SENIOR;8.00
+B375;50;Teresa Vieira;910000050;cliente050@example.com;Finding Nemo;Sol;2026-12-02;14:00;ESTUDANTE;8.50
+B405;15;Bruno Santos;910000015;cliente015@example.com;Finding Nemo;Sol;2026-12-02;14:00;ESTUDANTE;8.50
+B173;2;Joaquim Alberto;910000002;quim@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B654;24;Duarte Mendes;910000024;cliente024@example.com;Groundhog Day;Mar;2026-12-04;14:00;SENIOR;7.00
+B1168;31;Carlos Teixeira;910000031;cliente031@example.com;Inception;Terra;2026-12-07;14:00;NORMAL;9.50
+B579;83;Marta Ribeiro;910000083;cliente083@example.com;Paddington 2;Terra;2026-12-03;18:00;NORMAL;9.50
+B522;58;Bruno Fernandes;910000058;cliente058@example.com;Spirited Away;Mar;2026-12-03;18:00;NORMAL;8.50
+B789;84;Eduarda Ramos;910000084;cliente084@example.com;Whiplash;Mar;2026-12-05;14:00;ESTUDANTE;6.50
+B1263;71;Manuel Cardoso;910000071;cliente071@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B478;20;Bruno Marques;910000020;cliente020@example.com;Ratatouille;Mar;2026-12-03;14:00;ESTUDANTE;6.50
+B026;83;Marta Ribeiro;910000083;cliente083@example.com;Interstellar;Mar;2026-12-01;18:00;NORMAL;8.50
+B1147;84;Eduarda Ramos;910000084;cliente084@example.com;Inception;Mar;2026-12-07;18:00;NORMAL;8.50
+B1477;76;Beatriz Reis;910000076;cliente076@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;NORMAL;10.50
+B203;82;Madalena Ramos;910000082;cliente082@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1361;82;Madalena Ramos;910000082;cliente082@example.com;The Lion King;Mar;2026-12-08;18:00;NORMAL;8.50
+B283;95;Afonso Gomes;910000095;cliente095@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B425;38;Eduarda Dias;910000038;cliente038@example.com;The Lion King;Sol;2026-12-02;18:00;SENIOR;9.00
+B1430;88;Duarte Vieira;910000088;cliente088@example.com;The Dark Knight;Terra;2026-12-08;18:00;NORMAL;9.50
+B313;52;Carlos Ferreira;910000052;cliente052@example.com;Dune;Mar;2026-12-02;18:00;SENIOR;7.00
+B573;51;Gonçalo Costa;910000051;cliente051@example.com;Paddington 2;Terra;2026-12-03;18:00;NORMAL;9.50
+B988;31;Carlos Teixeira;910000031;cliente031@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;NORMAL;8.50
+B561;43;Teresa Reis;910000043;cliente043@example.com;Inside Out;Terra;2026-12-03;14:00;ESTUDANTE;7.50
+B1049;59;Inês Moreira;910000059;cliente059@example.com;Interstellar;Terra;2026-12-06;18:00;ESTUDANTE;7.50
+B1130;42;Luís Pinto;910000042;cliente042@example.com;Shrek;Mar;2026-12-07;14:00;ESTUDANTE;6.50
+B105;62;Ricardo Gomes;910000062;cliente062@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B1322;74;Inês Vieira;910000074;cliente074@example.com;WALL-E;Mar;2026-12-08;14:00;NORMAL;8.50
+B1458;45;Madalena Ferreira;910000045;cliente045@example.com;Jurassic Park;Sol;2026-12-08;14:00;NORMAL;10.50
+B811;33;Diana Silva;910000033;cliente033@example.com;Whiplash;Mar;2026-12-05;14:00;ESTUDANTE;6.50
+B975;14;Nuno Silva;910000014;cliente014@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;ESTUDANTE;6.50
+B325;69;Carlos Rocha;910000069;cliente069@example.com;Dune;Mar;2026-12-02;18:00;NORMAL;8.50
+B883;83;Marta Ribeiro;910000083;cliente083@example.com;Gladiator;Terra;2026-12-05;18:00;ESTUDANTE;7.50
+B359;2;Joaquim Alberto;910000002;quim@example.com;Toy Story;Terra;2026-12-02;18:00;NORMAL;9.50
+B1378;16;Gabriela Ribeiro;910000016;cliente016@example.com;Forrest Gump;Terra;2026-12-08;14:00;ESTUDANTE;7.50
+B676;30;Carlos Correia;910000030;cliente030@example.com;Groundhog Day;Mar;2026-12-04;14:00;NORMAL;8.50
+B554;12;Pedro Correia;910000012;cliente012@example.com;Inside Out;Terra;2026-12-03;14:00;SENIOR;8.00
+B1039;100;Catarina Marques;910000100;cliente100@example.com;Interstellar;Terra;2026-12-06;14:00;NORMAL;9.50
+B1388;22;Leonor Rocha;910000022;cliente022@example.com;Forrest Gump;Terra;2026-12-08;14:00;ESTUDANTE;7.50
+B1365;35;Mariana Marques;910000035;cliente035@example.com;The Lion King;Mar;2026-12-08;18:00;SENIOR;7.00
+B049;34;Hugo Gomes;910000034;cliente034@example.com;Shrek;Mar;2026-12-01;14:00;ESTUDANTE;6.50
+B166;53;Rui Teixeira;910000053;cliente053@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B133;51;Gonçalo Costa;910000051;cliente051@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1317;72;Mariana Rocha;910000072;cliente072@example.com;WALL-E;Mar;2026-12-08;14:00;ESTUDANTE;6.50
+B1468;10;António Rocha;910000010;cliente010@example.com;Jurassic Park;Sol;2026-12-08;14:00;SENIOR;9.00
+B151;15;Bruno Santos;910000015;cliente015@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1131;45;Madalena Ferreira;910000045;cliente045@example.com;Shrek;Mar;2026-12-07;14:00;ESTUDANTE;6.50
+B1081;81;Bruno Gomes;910000081;cliente081@example.com;Shrek;Sol;2026-12-06;18:00;NORMAL;10.50
+B493;67;André Almeida;910000067;cliente067@example.com;Ratatouille;Mar;2026-12-03;14:00;SENIOR;7.00
+B393;63;Pedro Mendes;910000063;cliente063@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B889;6;Eduarda Costa;910000006;cliente006@example.com;Gladiator;Terra;2026-12-05;18:00;NORMAL;9.50
+B1181;1;Ivone Costa;910000001;ivone@example.com;Inception;Terra;2026-12-07;14:00;ESTUDANTE;7.50
+B1215;44;Teresa Rocha;910000044;cliente044@example.com;Inception;Terra;2026-12-07;18:00;SENIOR;8.00
+B1170;9;Rui Rodrigues;910000009;cliente009@example.com;Inception;Terra;2026-12-07;14:00;NORMAL;9.50
+B1226;18;Hugo Lopes;910000018;cliente018@example.com;The Matrix;Sol;2026-12-07;14:00;ESTUDANTE;8.50
+B1242;16;Gabriela Ribeiro;910000016;cliente016@example.com;The Matrix;Sol;2026-12-07;14:00;ESTUDANTE;8.50
+B102;80;Bruno Ribeiro;910000080;cliente080@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1456;56;Ana Ribeiro;910000056;cliente056@example.com;Jurassic Park;Sol;2026-12-08;14:00;ESTUDANTE;8.50
+B671;4;Ana Teixeira;910000004;cliente004@example.com;Groundhog Day;Mar;2026-12-04;14:00;NORMAL;8.50
+B616;98;Carlos Oliveira;910000098;cliente098@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B803;94;Miguel Matos;910000094;cliente094@example.com;Whiplash;Mar;2026-12-05;14:00;NORMAL;8.50
+B685;93;Hugo Martins;910000093;cliente093@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;SENIOR;7.00
+B1407;22;Leonor Rocha;910000022;cliente022@example.com;Forrest Gump;Terra;2026-12-08;14:00;ESTUDANTE;7.50
+B360;95;Afonso Gomes;910000095;cliente095@example.com;Finding Nemo;Sol;2026-12-02;14:00;ESTUDANTE;8.50
+B679;8;Gabriela Mendes;910000008;cliente008@example.com;Groundhog Day;Mar;2026-12-04;14:00;NORMAL;8.50
+B638;84;Eduarda Ramos;910000084;cliente084@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;ESTUDANTE;8.50
+B933;65;Ricardo Rocha;910000065;cliente065@example.com;Jurassic Park;Mar;2026-12-06;14:00;NORMAL;8.50
+B1284;20;Bruno Marques;910000020;cliente020@example.com;Back to the Future;Sol;2026-12-07;18:00;ESTUDANTE;8.50
+B1483;39;Vera Dias;910000039;cliente039@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;ESTUDANTE;8.50
+B1328;3;Carlos Reis;910000003;cliente003@example.com;WALL-E;Mar;2026-12-08;14:00;ESTUDANTE;6.50
+B446;55;Helena Silva;910000055;cliente055@example.com;The Lion King;Sol;2026-12-02;18:00;SENIOR;9.00
+B1392;37;Catarina Correia;910000037;cliente037@example.com;Forrest Gump;Terra;2026-12-08;14:00;NORMAL;9.50
+B347;6;Eduarda Costa;910000006;cliente006@example.com;Toy Story;Terra;2026-12-02;18:00;ESTUDANTE;7.50
+B1108;23;Teresa Matos;910000023;cliente023@example.com;Shrek;Mar;2026-12-07;14:00;NORMAL;8.50
+B323;13;Carolina Santos;910000013;cliente013@example.com;Dune;Mar;2026-12-02;18:00;NORMAL;8.50
+B1146;31;Carlos Teixeira;910000031;cliente031@example.com;Inception;Mar;2026-12-07;18:00;ESTUDANTE;6.50
+B1227;91;António Ribeiro;910000091;cliente091@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B1189;2;Joaquim Alberto;910000002;quim@example.com;Inception;Terra;2026-12-07;18:00;ESTUDANTE;7.50
+B1075;24;Duarte Mendes;910000024;cliente024@example.com;Interstellar;Sol;2026-12-06;14:00;ESTUDANTE;8.50
+B193;28;Diana Reis;910000028;cliente028@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B252;25;Joana Rocha;910000025;cliente025@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B108;10;António Rocha;910000010;cliente010@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1194;30;Carlos Correia;910000030;cliente030@example.com;Inception;Terra;2026-12-07;18:00;ESTUDANTE;7.50
+B1035;47;Diogo Pereira;910000047;cliente047@example.com;Interstellar;Terra;2026-12-06;14:00;ESTUDANTE;7.50
+B1212;35;Mariana Marques;910000035;cliente035@example.com;Inception;Terra;2026-12-07;18:00;ESTUDANTE;7.50
+B127;28;Diana Reis;910000028;cliente028@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B315;50;Teresa Vieira;910000050;cliente050@example.com;Dune;Mar;2026-12-02;18:00;SENIOR;7.00
+B675;44;Teresa Rocha;910000044;cliente044@example.com;Groundhog Day;Mar;2026-12-04;14:00;NORMAL;8.50
+B1243;10;António Rocha;910000010;cliente010@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B706;33;Diana Silva;910000033;cliente033@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;NORMAL;8.50
+B1054;76;Beatriz Reis;910000076;cliente076@example.com;Interstellar;Terra;2026-12-06;18:00;ESTUDANTE;7.50
+B741;58;Bruno Fernandes;910000058;cliente058@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;ESTUDANTE;7.50
+B796;62;Ricardo Gomes;910000062;cliente062@example.com;Whiplash;Mar;2026-12-05;14:00;NORMAL;8.50
+B276;36;Manuel Fernandes;910000036;cliente036@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B569;76;Beatriz Reis;910000076;cliente076@example.com;Paddington 2;Terra;2026-12-03;18:00;ESTUDANTE;7.50
+B337;68;Cláudia Martins;910000068;cliente068@example.com;WALL-E;Terra;2026-12-02;14:00;NORMAL;9.50
+B950;43;Teresa Reis;910000043;cliente043@example.com;Jurassic Park;Mar;2026-12-06;14:00;NORMAL;8.50
+B1237;62;Ricardo Gomes;910000062;cliente062@example.com;The Matrix;Sol;2026-12-07;14:00;ESTUDANTE;8.50
+B1400;55;Helena Silva;910000055;cliente055@example.com;Forrest Gump;Terra;2026-12-08;14:00;NORMAL;9.50
+B1132;48;João Marques;910000048;cliente048@example.com;Shrek;Mar;2026-12-07;14:00;ESTUDANTE;6.50
+B448;40;Catarina Neves;910000040;cliente040@example.com;The Lion King;Sol;2026-12-02;18:00;NORMAL;10.50
+B518;54;Luís Rodrigues;910000054;cliente054@example.com;Spirited Away;Mar;2026-12-03;18:00;SENIOR;7.00
+B908;96;Inês Cardoso;910000096;cliente096@example.com;Mad Max: Fury Road;Sol;2026-12-05;14:00;SENIOR;9.00
+B618;76;Beatriz Reis;910000076;cliente076@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B634;48;João Marques;910000048;cliente048@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B1355;15;Bruno Santos;910000015;cliente015@example.com;The Lion King;Mar;2026-12-08;18:00;NORMAL;8.50
+B090;46;Manuel Pinto;910000046;cliente046@example.com;The Matrix;Terra;2026-12-01;18:00;NORMAL;9.50
+B1441;90;Luís Sousa;910000090;cliente090@example.com;The Dark Knight;Terra;2026-12-08;18:00;ESTUDANTE;7.50
+B113;46;Manuel Pinto;910000046;cliente046@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B411;23;Teresa Matos;910000023;cliente023@example.com;The Lion King;Sol;2026-12-02;18:00;NORMAL;10.50
+B1475;9;Rui Rodrigues;910000009;cliente009@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;NORMAL;10.50
+B272;15;Bruno Santos;910000015;cliente015@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B414;3;Carlos Reis;910000003;cliente003@example.com;The Lion King;Sol;2026-12-02;18:00;NORMAL;10.50
+B1473;44;Teresa Rocha;910000044;cliente044@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;NORMAL;10.50
+B1060;100;Catarina Marques;910000100;cliente100@example.com;Interstellar;Sol;2026-12-06;14:00;ESTUDANTE;8.50
+B1044;15;Bruno Santos;910000015;cliente015@example.com;Interstellar;Terra;2026-12-06;18:00;NORMAL;9.50
+B1402;95;Afonso Gomes;910000095;cliente095@example.com;Forrest Gump;Terra;2026-12-08;14:00;NORMAL;9.50
+B963;69;Carlos Rocha;910000069;cliente069@example.com;Jurassic Park;Mar;2026-12-06;14:00;NORMAL;8.50
+B1153;14;Nuno Silva;910000014;cliente014@example.com;Inception;Mar;2026-12-07;18:00;NORMAL;8.50
+B469;89;Carlos Rodrigues;910000089;cliente089@example.com;Ratatouille;Mar;2026-12-03;14:00;SENIOR;7.00
+B506;63;Pedro Mendes;910000063;cliente063@example.com;Spirited Away;Mar;2026-12-03;18:00;NORMAL;8.50
+B845;4;Ana Teixeira;910000004;cliente004@example.com;The Truman Show;Mar;2026-12-05;18:00;NORMAL;8.50
+B319;75;Bruno Ferreira;910000075;cliente075@example.com;Dune;Mar;2026-12-02;18:00;SENIOR;7.00
+B787;9;Rui Rodrigues;910000009;cliente009@example.com;Whiplash;Mar;2026-12-05;14:00;NORMAL;8.50
+B464;85;Gonçalo Rocha;910000085;cliente085@example.com;Ratatouille;Mar;2026-12-03;14:00;NORMAL;8.50
+B251;9;Rui Rodrigues;910000009;cliente009@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B872;90;Luís Sousa;910000090;cliente090@example.com;Gladiator;Terra;2026-12-05;18:00;NORMAL;9.50
+B436;65;Ricardo Rocha;910000065;cliente065@example.com;The Lion King;Sol;2026-12-02;18:00;ESTUDANTE;8.50
+B709;31;Carlos Teixeira;910000031;cliente031@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;ESTUDANTE;6.50
+B1411;42;Luís Pinto;910000042;cliente042@example.com;Forrest Gump;Terra;2026-12-08;14:00;SENIOR;8.00
+B938;3;Carlos Reis;910000003;cliente003@example.com;Jurassic Park;Mar;2026-12-06;14:00;NORMAL;8.50
+B986;61;Ricardo Lopes;910000061;cliente061@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;ESTUDANTE;6.50
+B390;98;Carlos Oliveira;910000098;cliente098@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B081;19;Rita Rodrigues;910000019;cliente019@example.com;Inception;Terra;2026-12-01;14:00;NORMAL;9.50
+B754;48;João Marques;910000048;cliente048@example.com;The Shawshank Redemption;Terra;2026-12-04;18:00;ESTUDANTE;7.50
+B1325;94;Miguel Matos;910000094;cliente094@example.com;WALL-E;Mar;2026-12-08;14:00;NORMAL;8.50
+B244;29;Duarte Fernandes;910000029;cliente029@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B450;84;Eduarda Ramos;910000084;cliente084@example.com;The Lion King;Sol;2026-12-02;18:00;NORMAL;10.50
+B1038;58;Bruno Fernandes;910000058;cliente058@example.com;Interstellar;Terra;2026-12-06;14:00;NORMAL;9.50
+B1261;97;Carolina Ferreira;910000097;cliente097@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B218;5;Leonor Santos;910000005;cliente005@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B1495;85;Gonçalo Rocha;910000085;cliente085@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;NORMAL;10.50
+B330;74;Inês Vieira;910000074;cliente074@example.com;Dune;Mar;2026-12-02;18:00;ESTUDANTE;6.50
+B091;64;Afonso Rodrigues;910000064;cliente064@example.com;The Matrix;Terra;2026-12-01;18:00;NORMAL;9.50
+B1211;62;Ricardo Gomes;910000062;cliente062@example.com;Inception;Terra;2026-12-07;18:00;NORMAL;9.50
+B1173;33;Diana Silva;910000033;cliente033@example.com;Inception;Terra;2026-12-07;14:00;NORMAL;9.50
+B582;63;Pedro Mendes;910000063;cliente063@example.com;Home Alone;Sol;2026-12-03;14:00;NORMAL;10.50
+B558;90;Luís Sousa;910000090;cliente090@example.com;Inside Out;Terra;2026-12-03;14:00;NORMAL;9.50
+B612;16;Gabriela Ribeiro;910000016;cliente016@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;ESTUDANTE;8.50
+B1292;89;Carlos Rodrigues;910000089;cliente089@example.com;Back to the Future;Sol;2026-12-07;18:00;ESTUDANTE;8.50
+B587;72;Mariana Rocha;910000072;cliente072@example.com;Home Alone;Sol;2026-12-03;14:00;NORMAL;10.50
+B507;92;Teresa Neves;910000092;cliente092@example.com;Spirited Away;Mar;2026-12-03;18:00;ESTUDANTE;6.50
+B1463;96;Inês Cardoso;910000096;cliente096@example.com;Jurassic Park;Sol;2026-12-08;14:00;ESTUDANTE;8.50
+B335;96;Inês Cardoso;910000096;cliente096@example.com;WALL-E;Terra;2026-12-02;14:00;ESTUDANTE;7.50
+B1230;68;Cláudia Martins;910000068;cliente068@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B749;62;Ricardo Gomes;910000062;cliente062@example.com;The Shawshank Redemption;Terra;2026-12-04;18:00;NORMAL;9.50
+B1276;84;Eduarda Ramos;910000084;cliente084@example.com;Back to the Future;Sol;2026-12-07;18:00;NORMAL;10.50
+B381;71;Manuel Cardoso;910000071;cliente071@example.com;Finding Nemo;Sol;2026-12-02;14:00;ESTUDANTE;8.50
+B1310;29;Duarte Fernandes;910000029;cliente029@example.com;WALL-E;Mar;2026-12-08;14:00;NORMAL;8.50
+B1233;38;Eduarda Dias;910000038;cliente038@example.com;The Matrix;Sol;2026-12-07;14:00;ESTUDANTE;8.50
+B717;92;Teresa Neves;910000092;cliente092@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;ESTUDANTE;6.50
+B159;49;Catarina Martins;910000049;cliente049@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B092;92;Teresa Neves;910000092;cliente092@example.com;The Matrix;Terra;2026-12-01;18:00;NORMAL;9.50
+B362;65;Ricardo Rocha;910000065;cliente065@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B649;84;Eduarda Ramos;910000084;cliente084@example.com;Groundhog Day;Mar;2026-12-04;14:00;ESTUDANTE;6.50
+B427;30;Carlos Correia;910000030;cliente030@example.com;The Lion King;Sol;2026-12-02;18:00;NORMAL;10.50
+B1119;59;Inês Moreira;910000059;cliente059@example.com;Shrek;Mar;2026-12-07;14:00;NORMAL;8.50
+B730;48;João Marques;910000048;cliente048@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;ESTUDANTE;7.50
+B361;55;Helena Silva;910000055;cliente055@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B1321;4;Ana Teixeira;910000004;cliente004@example.com;WALL-E;Mar;2026-12-08;14:00;SENIOR;7.00
+B1496;45;Madalena Ferreira;910000045;cliente045@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;NORMAL;10.50
+B839;80;Bruno Ribeiro;910000080;cliente080@example.com;The Truman Show;Mar;2026-12-05;18:00;NORMAL;8.50
+B888;30;Carlos Correia;910000030;cliente030@example.com;Gladiator;Terra;2026-12-05;18:00;NORMAL;9.50
+B163;48;João Marques;910000048;cliente048@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B1389;88;Duarte Vieira;910000088;cliente088@example.com;Forrest Gump;Terra;2026-12-08;14:00;ESTUDANTE;7.50
+B1169;3;Carlos Reis;910000003;cliente003@example.com;Inception;Terra;2026-12-07;14:00;NORMAL;9.50
+B028;11;Filipa Marques;910000011;cliente011@example.com;Interstellar;Mar;2026-12-01;18:00;ESTUDANTE;6.50
+B810;74;Inês Vieira;910000074;cliente074@example.com;Whiplash;Mar;2026-12-05;14:00;ESTUDANTE;6.50
+B815;54;Luís Rodrigues;910000054;cliente054@example.com;Whiplash;Mar;2026-12-05;14:00;ESTUDANTE;6.50
+B964;39;Vera Dias;910000039;cliente039@example.com;Jurassic Park;Mar;2026-12-06;14:00;ESTUDANTE;6.50
+B268;40;Catarina Neves;910000040;cliente040@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1319;88;Duarte Vieira;910000088;cliente088@example.com;WALL-E;Mar;2026-12-08;14:00;NORMAL;8.50
+B905;3;Carlos Reis;910000003;cliente003@example.com;Mad Max: Fury Road;Sol;2026-12-05;14:00;SENIOR;9.00
+B112;63;Pedro Mendes;910000063;cliente063@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B1175;69;Carlos Rocha;910000069;cliente069@example.com;Inception;Terra;2026-12-07;14:00;NORMAL;9.50
+B718;42;Luís Pinto;910000042;cliente042@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;NORMAL;9.50
+B1448;82;Madalena Ramos;910000082;cliente082@example.com;The Dark Knight;Terra;2026-12-08;18:00;ESTUDANTE;7.50
+B1229;42;Luís Pinto;910000042;cliente042@example.com;The Matrix;Sol;2026-12-07;14:00;ESTUDANTE;8.50
+B370;76;Beatriz Reis;910000076;cliente076@example.com;Finding Nemo;Sol;2026-12-02;14:00;ESTUDANTE;8.50
+B894;18;Hugo Lopes;910000018;cliente018@example.com;Mad Max: Fury Road;Sol;2026-12-05;14:00;ESTUDANTE;8.50
+B954;43;Teresa Reis;910000043;cliente043@example.com;Jurassic Park;Mar;2026-12-06;14:00;NORMAL;8.50
+B817;8;Gabriela Mendes;910000008;cliente008@example.com;Whiplash;Mar;2026-12-05;14:00;NORMAL;8.50
+B931;47;Diogo Pereira;910000047;cliente047@example.com;Jurassic Park;Mar;2026-12-06;14:00;NORMAL;8.50
+B451;44;Teresa Rocha;910000044;cliente044@example.com;The Lion King;Sol;2026-12-02;18:00;SENIOR;9.00
+B371;53;Rui Teixeira;910000053;cliente053@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B455;51;Gonçalo Costa;910000051;cliente051@example.com;Ratatouille;Mar;2026-12-03;14:00;NORMAL;8.50
+B614;58;Bruno Fernandes;910000058;cliente058@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B957;46;Manuel Pinto;910000046;cliente046@example.com;Jurassic Park;Mar;2026-12-06;14:00;NORMAL;8.50
+B234;12;Pedro Correia;910000012;cliente012@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B387;48;João Marques;910000048;cliente048@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B1221;1;Ivone Costa;910000001;ivone@example.com;Inception;Terra;2026-12-07;18:00;ESTUDANTE;7.50
+B246;49;Catarina Martins;910000049;cliente049@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1163;37;Catarina Correia;910000037;cliente037@example.com;Inception;Terra;2026-12-07;14:00;ESTUDANTE;7.50
+B277;98;Carlos Oliveira;910000098;cliente098@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B219;62;Ricardo Gomes;910000062;cliente062@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B217;1;Ivone Costa;910000001;ivone@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B187;36;Manuel Fernandes;910000036;cliente036@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1074;8;Gabriela Mendes;910000008;cliente008@example.com;Interstellar;Sol;2026-12-06;14:00;NORMAL;10.50
+B705;17;Miguel Ribeiro;910000017;cliente017@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;ESTUDANTE;6.50
+B600;89;Carlos Rodrigues;910000089;cliente089@example.com;Home Alone;Sol;2026-12-03;14:00;NORMAL;10.50
+B1114;100;Catarina Marques;910000100;cliente100@example.com;Shrek;Mar;2026-12-07;14:00;ESTUDANTE;6.50
+B546;75;Bruno Ferreira;910000075;cliente075@example.com;Inside Out;Terra;2026-12-03;14:00;NORMAL;9.50
+B1413;20;Bruno Marques;910000020;cliente020@example.com;Forrest Gump;Terra;2026-12-08;14:00;NORMAL;9.50
+B195;16;Gabriela Ribeiro;910000016;cliente016@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B772;64;Afonso Rodrigues;910000064;cliente064@example.com;The Green Mile;Sol;2026-12-04;18:00;ESTUDANTE;8.50
+B1236;27;Sofia Cardoso;910000027;cliente027@example.com;The Matrix;Sol;2026-12-07;14:00;ESTUDANTE;8.50
+B1036;6;Eduarda Costa;910000006;cliente006@example.com;Interstellar;Terra;2026-12-06;14:00;ESTUDANTE;7.50
+B728;67;André Almeida;910000067;cliente067@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;NORMAL;9.50
+B051;62;Ricardo Gomes;910000062;cliente062@example.com;Shrek;Mar;2026-12-01;14:00;SENIOR;7.00
+B719;69;Carlos Rocha;910000069;cliente069@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;NORMAL;9.50
+B024;52;Carlos Ferreira;910000052;cliente052@example.com;Interstellar;Mar;2026-12-01;18:00;ESTUDANTE;6.50
+B430;36;Manuel Fernandes;910000036;cliente036@example.com;The Lion King;Sol;2026-12-02;18:00;ESTUDANTE;8.50
+B107;38;Eduarda Dias;910000038;cliente038@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B1487;75;Bruno Ferreira;910000075;cliente075@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;NORMAL;10.50
+B534;37;Catarina Correia;910000037;cliente037@example.com;Spirited Away;Mar;2026-12-03;18:00;ESTUDANTE;6.50
+B299;25;Joana Rocha;910000025;cliente025@example.com;Arrival;Mar;2026-12-02;14:00;NORMAL;8.50
+B1066;71;Manuel Cardoso;910000071;cliente071@example.com;Interstellar;Sol;2026-12-06;14:00;SENIOR;9.00
+B871;98;Carlos Oliveira;910000098;cliente098@example.com;Gladiator;Terra;2026-12-05;18:00;NORMAL;9.50
+B1474;55;Helena Silva;910000055;cliente055@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;NORMAL;10.50
+B1437;75;Bruno Ferreira;910000075;cliente075@example.com;The Dark Knight;Terra;2026-12-08;18:00;SENIOR;8.00
+B1139;66;Luís Rocha;910000066;cliente066@example.com;Shrek;Mar;2026-12-07;14:00;NORMAL;8.50
+B130;20;Bruno Marques;910000020;cliente020@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B530;81;Bruno Gomes;910000081;cliente081@example.com;Spirited Away;Mar;2026-12-03;18:00;ESTUDANTE;6.50
+B137;80;Bruno Ribeiro;910000080;cliente080@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B249;67;André Almeida;910000067;cliente067@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B580;24;Duarte Mendes;910000024;cliente024@example.com;Paddington 2;Terra;2026-12-03;18:00;ESTUDANTE;7.50
+B394;39;Vera Dias;910000039;cliente039@example.com;Finding Nemo;Sol;2026-12-02;14:00;SENIOR;9.00
+B1185;35;Mariana Marques;910000035;cliente035@example.com;Inception;Terra;2026-12-07;14:00;NORMAL;9.50
+B1086;7;Carlos Dias;910000007;cliente007@example.com;Shrek;Sol;2026-12-06;18:00;ESTUDANTE;8.50
+B991;45;Madalena Ferreira;910000045;cliente045@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;ESTUDANTE;6.50
+B1337;45;Madalena Ferreira;910000045;cliente045@example.com;The Lion King;Mar;2026-12-08;18:00;NORMAL;8.50
+B1248;73;José Silva;910000073;cliente073@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B048;96;Inês Cardoso;910000096;cliente096@example.com;Interstellar;Mar;2026-12-01;18:00;NORMAL;8.50
+B382;7;Carlos Dias;910000007;cliente007@example.com;Finding Nemo;Sol;2026-12-02;14:00;SENIOR;9.00
+B1350;79;Madalena Pinto;910000079;cliente079@example.com;The Lion King;Mar;2026-12-08;18:00;NORMAL;8.50
+B663;65;Ricardo Rocha;910000065;cliente065@example.com;Groundhog Day;Mar;2026-12-04;14:00;ESTUDANTE;6.50
+B1159;96;Inês Cardoso;910000096;cliente096@example.com;Inception;Mar;2026-12-07;18:00;ESTUDANTE;6.50
+B746;65;Ricardo Rocha;910000065;cliente065@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;ESTUDANTE;7.50
+B307;95;Afonso Gomes;910000095;cliente095@example.com;Dune;Mar;2026-12-02;18:00;NORMAL;8.50
+B115;73;José Silva;910000073;cliente073@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B971;27;Sofia Cardoso;910000027;cliente027@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;SENIOR;7.00
+B658;3;Carlos Reis;910000003;cliente003@example.com;Groundhog Day;Mar;2026-12-04;14:00;NORMAL;8.50
+B1006;46;Manuel Pinto;910000046;cliente046@example.com;Interstellar;Terra;2026-12-06;14:00;ESTUDANTE;7.50
+B438;16;Gabriela Ribeiro;910000016;cliente016@example.com;The Lion King;Sol;2026-12-02;18:00;NORMAL;10.50
+B261;7;Carlos Dias;910000007;cliente007@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B514;10;António Rocha;910000010;cliente010@example.com;Spirited Away;Mar;2026-12-03;18:00;SENIOR;7.00
+B1144;58;Bruno Fernandes;910000058;cliente058@example.com;Inception;Mar;2026-12-07;18:00;NORMAL;8.50
+B1068;10;António Rocha;910000010;cliente010@example.com;Interstellar;Sol;2026-12-06;14:00;ESTUDANTE;8.50
+B215;19;Rita Rodrigues;910000019;cliente019@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B621;41;Inês Santos;910000041;cliente041@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B1329;20;Bruno Marques;910000020;cliente020@example.com;WALL-E;Mar;2026-12-08;14:00;NORMAL;8.50
+B1096;91;António Ribeiro;910000091;cliente091@example.com;Shrek;Sol;2026-12-06;18:00;NORMAL;10.50
+B847;27;Sofia Cardoso;910000027;cliente027@example.com;The Truman Show;Mar;2026-12-05;18:00;NORMAL;8.50
+B1296;71;Manuel Cardoso;910000071;cliente071@example.com;Back to the Future;Sol;2026-12-07;18:00;NORMAL;10.50
+B150;90;Luís Sousa;910000090;cliente090@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B588;56;Ana Ribeiro;910000056;cliente056@example.com;Home Alone;Sol;2026-12-03;14:00;SENIOR;9.00
+B637;90;Luís Sousa;910000090;cliente090@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;ESTUDANTE;8.50
+B1298;37;Catarina Correia;910000037;cliente037@example.com;Back to the Future;Sol;2026-12-07;18:00;NORMAL;10.50
+B773;10;António Rocha;910000010;cliente010@example.com;The Green Mile;Sol;2026-12-04;18:00;NORMAL;10.50
+B231;36;Manuel Fernandes;910000036;cliente036@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B690;97;Carolina Ferreira;910000097;cliente097@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;NORMAL;8.50
+B611;66;Luís Rocha;910000066;cliente066@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B976;60;Manuel Sousa;910000060;cliente060@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;SENIOR;7.00
+B074;55;Helena Silva;910000055;cliente055@example.com;Inception;Terra;2026-12-01;14:00;ESTUDANTE;7.50
+B953;17;Miguel Ribeiro;910000017;cliente017@example.com;Jurassic Park;Mar;2026-12-06;14:00;NORMAL;8.50
+B495;44;Teresa Rocha;910000044;cliente044@example.com;Ratatouille;Mar;2026-12-03;14:00;ESTUDANTE;6.50
+B331;29;Duarte Fernandes;910000029;cliente029@example.com;WALL-E;Terra;2026-12-02;14:00;NORMAL;9.50
+B962;31;Carlos Teixeira;910000031;cliente031@example.com;Jurassic Park;Mar;2026-12-06;14:00;NORMAL;8.50
+B160;76;Beatriz Reis;910000076;cliente076@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B1187;80;Bruno Ribeiro;910000080;cliente080@example.com;Inception;Terra;2026-12-07;18:00;SENIOR;8.00
+B650;14;Nuno Silva;910000014;cliente014@example.com;Groundhog Day;Mar;2026-12-04;14:00;NORMAL;8.50
+B1259;2;Joaquim Alberto;910000002;quim@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B1090;36;Manuel Fernandes;910000036;cliente036@example.com;Shrek;Sol;2026-12-06;18:00;ESTUDANTE;8.50
+B432;99;Carolina Gomes;910000099;cliente099@example.com;The Lion King;Sol;2026-12-02;18:00;NORMAL;10.50
+B020;58;Bruno Fernandes;910000058;cliente058@example.com;Interstellar;Mar;2026-12-01;18:00;NORMAL;8.50
+B755;6;Eduarda Costa;910000006;cliente006@example.com;The Shawshank Redemption;Terra;2026-12-04;18:00;ESTUDANTE;7.50
+B874;91;António Ribeiro;910000091;cliente091@example.com;Gladiator;Terra;2026-12-05;18:00;NORMAL;9.50
+B1172;42;Luís Pinto;910000042;cliente042@example.com;Inception;Terra;2026-12-07;14:00;NORMAL;9.50
+B1493;87;Francisco Correia;910000087;cliente087@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;ESTUDANTE;8.50
+B030;51;Gonçalo Costa;910000051;cliente051@example.com;Interstellar;Mar;2026-12-01;18:00;NORMAL;8.50
+B677;11;Filipa Marques;910000011;cliente011@example.com;Groundhog Day;Mar;2026-12-04;14:00;ESTUDANTE;6.50
+B201;76;Beatriz Reis;910000076;cliente076@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B168;96;Inês Cardoso;910000096;cliente096@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B1121;27;Sofia Cardoso;910000027;cliente027@example.com;Shrek;Mar;2026-12-07;14:00;NORMAL;8.50
+B734;10;António Rocha;910000010;cliente010@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;NORMAL;9.50
+B1461;67;André Almeida;910000067;cliente067@example.com;Jurassic Park;Sol;2026-12-08;14:00;SENIOR;9.00
+B1255;37;Catarina Correia;910000037;cliente037@example.com;The Matrix;Sol;2026-12-07;14:00;ESTUDANTE;8.50
+B019;100;Catarina Marques;910000100;cliente100@example.com;Interstellar;Mar;2026-12-01;18:00;NORMAL;8.50
+B993;91;António Ribeiro;910000091;cliente091@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;NORMAL;8.50
+B1490;81;Bruno Gomes;910000081;cliente081@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;NORMAL;10.50
+B1382;40;Catarina Neves;910000040;cliente040@example.com;Forrest Gump;Terra;2026-12-08;14:00;ESTUDANTE;7.50
+B1177;57;Vera Rodrigues;910000057;cliente057@example.com;Inception;Terra;2026-12-07;14:00;NORMAL;9.50
+B1022;6;Eduarda Costa;910000006;cliente006@example.com;Interstellar;Terra;2026-12-06;14:00;ESTUDANTE;7.50
+B1128;72;Mariana Rocha;910000072;cliente072@example.com;Shrek;Mar;2026-12-07;14:00;NORMAL;8.50
+B1246;62;Ricardo Gomes;910000062;cliente062@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B417;13;Carolina Santos;910000013;cliente013@example.com;The Lion King;Sol;2026-12-02;18:00;NORMAL;10.50
+B1003;48;João Marques;910000048;cliente048@example.com;Interstellar;Terra;2026-12-06;14:00;NORMAL;9.50
+B995;10;António Rocha;910000010;cliente010@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;NORMAL;8.50
+B622;38;Eduarda Dias;910000038;cliente038@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B1293;99;Carolina Gomes;910000099;cliente099@example.com;Back to the Future;Sol;2026-12-07;18:00;NORMAL;10.50
+B1239;67;André Almeida;910000067;cliente067@example.com;The Matrix;Sol;2026-12-07;14:00;ESTUDANTE;8.50
+B566;85;Gonçalo Rocha;910000085;cliente085@example.com;Paddington 2;Terra;2026-12-03;18:00;SENIOR;8.00
+B012;60;Manuel Sousa;910000060;cliente060@example.com;Interstellar;Mar;2026-12-01;18:00;ESTUDANTE;6.50
+B1415;49;Catarina Martins;910000049;cliente049@example.com;The Dark Knight;Terra;2026-12-08;18:00;NORMAL;9.50
+B186;6;Eduarda Costa;910000006;cliente006@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B287;95;Afonso Gomes;910000095;cliente095@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B818;50;Teresa Vieira;910000050;cliente050@example.com;Whiplash;Mar;2026-12-05;14:00;SENIOR;7.00
+B1371;66;Luís Rocha;910000066;cliente066@example.com;Forrest Gump;Terra;2026-12-08;14:00;ESTUDANTE;7.50
+B901;96;Inês Cardoso;910000096;cliente096@example.com;Mad Max: Fury Road;Sol;2026-12-05;14:00;NORMAL;10.50
+B472;70;Duarte Rodrigues;910000070;cliente070@example.com;Ratatouille;Mar;2026-12-03;14:00;ESTUDANTE;6.50
+B1444;63;Pedro Mendes;910000063;cliente063@example.com;The Dark Knight;Terra;2026-12-08;18:00;ESTUDANTE;7.50
+B1272;19;Rita Rodrigues;910000019;cliente019@example.com;Back to the Future;Sol;2026-12-07;18:00;NORMAL;10.50
+B511;25;Joana Rocha;910000025;cliente025@example.com;Spirited Away;Mar;2026-12-03;18:00;NORMAL;8.50
+B172;92;Teresa Neves;910000092;cliente092@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B285;53;Rui Teixeira;910000053;cliente053@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B121;98;Carlos Oliveira;910000098;cliente098@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B199;30;Carlos Correia;910000030;cliente030@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B1222;84;Eduarda Ramos;910000084;cliente084@example.com;Inception;Terra;2026-12-07;18:00;NORMAL;9.50
+B723;5;Leonor Santos;910000005;cliente005@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;SENIOR;8.00
+B095;53;Rui Teixeira;910000053;cliente053@example.com;The Matrix;Terra;2026-12-01;18:00;NORMAL;9.50
+B1394;41;Inês Santos;910000041;cliente041@example.com;Forrest Gump;Terra;2026-12-08;14:00;ESTUDANTE;7.50
+B559;19;Rita Rodrigues;910000019;cliente019@example.com;Inside Out;Terra;2026-12-03;14:00;SENIOR;8.00
+B415;4;Ana Teixeira;910000004;cliente004@example.com;The Lion King;Sol;2026-12-02;18:00;NORMAL;10.50
+B378;94;Miguel Matos;910000094;cliente094@example.com;Finding Nemo;Sol;2026-12-02;14:00;ESTUDANTE;8.50
+B402;48;João Marques;910000048;cliente048@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B814;36;Manuel Fernandes;910000036;cliente036@example.com;Whiplash;Mar;2026-12-05;14:00;NORMAL;8.50
+B1069;34;Hugo Gomes;910000034;cliente034@example.com;Interstellar;Sol;2026-12-06;14:00;ESTUDANTE;8.50
+B850;88;Duarte Vieira;910000088;cliente088@example.com;The Truman Show;Mar;2026-12-05;18:00;NORMAL;8.50
+B761;93;Hugo Martins;910000093;cliente093@example.com;Forrest Gump;Sol;2026-12-04;14:00;ESTUDANTE;8.50
+B639;20;Bruno Marques;910000020;cliente020@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B832;54;Luís Rodrigues;910000054;cliente054@example.com;The Truman Show;Mar;2026-12-05;18:00;NORMAL;8.50
+B210;13;Carolina Santos;910000013;cliente013@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B1363;96;Inês Cardoso;910000096;cliente096@example.com;The Lion King;Mar;2026-12-08;18:00;NORMAL;8.50
+B1126;57;Vera Rodrigues;910000057;cliente057@example.com;Shrek;Mar;2026-12-07;14:00;SENIOR;7.00
+B1289;95;Afonso Gomes;910000095;cliente095@example.com;Back to the Future;Sol;2026-12-07;18:00;NORMAL;10.50
+B1358;35;Mariana Marques;910000035;cliente035@example.com;The Lion King;Mar;2026-12-08;18:00;ESTUDANTE;6.50
+B934;10;António Rocha;910000010;cliente010@example.com;Jurassic Park;Mar;2026-12-06;14:00;SENIOR;7.00
+B254;80;Bruno Ribeiro;910000080;cliente080@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B727;70;Duarte Rodrigues;910000070;cliente070@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;NORMAL;9.50
+B256;72;Mariana Rocha;910000072;cliente072@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B223;59;Inês Moreira;910000059;cliente059@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B519;79;Madalena Pinto;910000079;cliente079@example.com;Spirited Away;Mar;2026-12-03;18:00;ESTUDANTE;6.50
+B873;90;Luís Sousa;910000090;cliente090@example.com;Gladiator;Terra;2026-12-05;18:00;SENIOR;8.00
+B367;66;Luís Rocha;910000066;cliente066@example.com;Finding Nemo;Sol;2026-12-02;14:00;ESTUDANTE;8.50
+B255;85;Gonçalo Rocha;910000085;cliente085@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B601;11;Filipa Marques;910000011;cliente011@example.com;Home Alone;Sol;2026-12-03;14:00;NORMAL;10.50
+B492;35;Mariana Marques;910000035;cliente035@example.com;Ratatouille;Mar;2026-12-03;14:00;NORMAL;8.50
+B1387;52;Carlos Ferreira;910000052;cliente052@example.com;Forrest Gump;Terra;2026-12-08;14:00;ESTUDANTE;7.50
+B453;4;Ana Teixeira;910000004;cliente004@example.com;Ratatouille;Mar;2026-12-03;14:00;NORMAL;8.50
+B294;3;Carlos Reis;910000003;cliente003@example.com;Arrival;Mar;2026-12-02;14:00;NORMAL;8.50
+B322;87;Francisco Correia;910000087;cliente087@example.com;Dune;Mar;2026-12-02;18:00;NORMAL;8.50
+B825;22;Leonor Rocha;910000022;cliente022@example.com;The Truman Show;Mar;2026-12-05;18:00;ESTUDANTE;6.50
+B116;8;Gabriela Mendes;910000008;cliente008@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B793;70;Duarte Rodrigues;910000070;cliente070@example.com;Whiplash;Mar;2026-12-05;14:00;ESTUDANTE;6.50
+B852;65;Ricardo Rocha;910000065;cliente065@example.com;The Truman Show;Mar;2026-12-05;18:00;ESTUDANTE;6.50
+B906;85;Gonçalo Rocha;910000085;cliente085@example.com;Mad Max: Fury Road;Sol;2026-12-05;14:00;NORMAL;10.50
+B279;32;Madalena Ribeiro;910000032;cliente032@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B482;19;Rita Rodrigues;910000019;cliente019@example.com;Ratatouille;Mar;2026-12-03;14:00;SENIOR;7.00
+B762;27;Sofia Cardoso;910000027;cliente027@example.com;Forrest Gump;Sol;2026-12-04;14:00;ESTUDANTE;8.50
+B016;4;Ana Teixeira;910000004;cliente004@example.com;Interstellar;Mar;2026-12-01;18:00;NORMAL;8.50
+B161;18;Hugo Lopes;910000018;cliente018@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1280;85;Gonçalo Rocha;910000085;cliente085@example.com;Back to the Future;Sol;2026-12-07;18:00;SENIOR;9.00
+B948;13;Carolina Santos;910000013;cliente013@example.com;Jurassic Park;Mar;2026-12-06;14:00;ESTUDANTE;6.50
+B692;3;Carlos Reis;910000003;cliente003@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;NORMAL;8.50
+B1180;10;António Rocha;910000010;cliente010@example.com;Inception;Terra;2026-12-07;14:00;NORMAL;9.50
+B994;18;Hugo Lopes;910000018;cliente018@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;NORMAL;8.50
+B349;25;Joana Rocha;910000025;cliente025@example.com;Toy Story;Terra;2026-12-02;18:00;NORMAL;9.50
+B1256;51;Gonçalo Costa;910000051;cliente051@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B788;89;Carlos Rodrigues;910000089;cliente089@example.com;Whiplash;Mar;2026-12-05;14:00;NORMAL;8.50
+B548;71;Manuel Cardoso;910000071;cliente071@example.com;Inside Out;Terra;2026-12-03;14:00;NORMAL;9.50
+B073;28;Diana Reis;910000028;cliente028@example.com;Inception;Terra;2026-12-01;14:00;ESTUDANTE;7.50
+B500;90;Luís Sousa;910000090;cliente090@example.com;Spirited Away;Mar;2026-12-03;18:00;ESTUDANTE;6.50
+B340;44;Teresa Rocha;910000044;cliente044@example.com;WALL-E;Terra;2026-12-02;14:00;ESTUDANTE;7.50
+B626;48;João Marques;910000048;cliente048@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B214;38;Eduarda Dias;910000038;cliente038@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B783;77;Bruno Ramos;910000077;cliente077@example.com;Whiplash;Mar;2026-12-05;14:00;NORMAL;8.50
+B014;57;Vera Rodrigues;910000057;cliente057@example.com;Interstellar;Mar;2026-12-01;18:00;ESTUDANTE;6.50
+B1160;73;José Silva;910000073;cliente073@example.com;Inception;Terra;2026-12-07;14:00;NORMAL;9.50
+B838;74;Inês Vieira;910000074;cliente074@example.com;The Truman Show;Mar;2026-12-05;18:00;SENIOR;7.00
+B1202;23;Teresa Matos;910000023;cliente023@example.com;Inception;Terra;2026-12-07;18:00;SENIOR;8.00
+B1014;26;Luís Marques;910000026;cliente026@example.com;Interstellar;Terra;2026-12-06;14:00;ESTUDANTE;7.50
+B809;73;José Silva;910000073;cliente073@example.com;Whiplash;Mar;2026-12-05;14:00;ESTUDANTE;6.50
+B576;65;Ricardo Rocha;910000065;cliente065@example.com;Paddington 2;Terra;2026-12-03;18:00;ESTUDANTE;7.50
+B1078;41;Inês Santos;910000041;cliente041@example.com;Interstellar;Sol;2026-12-06;14:00;ESTUDANTE;8.50
+B1482;32;Madalena Ribeiro;910000032;cliente032@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;NORMAL;10.50
+B205;89;Carlos Rodrigues;910000089;cliente089@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1193;16;Gabriela Ribeiro;910000016;cliente016@example.com;Inception;Terra;2026-12-07;18:00;ESTUDANTE;7.50
+B259;22;Leonor Rocha;910000022;cliente022@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B858;86;Cláudia Teixeira;910000086;cliente086@example.com;The Truman Show;Mar;2026-12-05;18:00;NORMAL;8.50
+B422;69;Carlos Rocha;910000069;cliente069@example.com;The Lion King;Sol;2026-12-02;18:00;NORMAL;10.50
+B021;68;Cláudia Martins;910000068;cliente068@example.com;Interstellar;Mar;2026-12-01;18:00;NORMAL;8.50
+B1341;34;Hugo Gomes;910000034;cliente034@example.com;The Lion King;Mar;2026-12-08;18:00;NORMAL;8.50
+B1085;46;Manuel Pinto;910000046;cliente046@example.com;Shrek;Sol;2026-12-06;18:00;NORMAL;10.50
+B1037;99;Carolina Gomes;910000099;cliente099@example.com;Interstellar;Terra;2026-12-06;14:00;NORMAL;9.50
+B989;33;Diana Silva;910000033;cliente033@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;NORMAL;8.50
+B077;37;Catarina Correia;910000037;cliente037@example.com;Inception;Terra;2026-12-01;14:00;NORMAL;9.50
+B228;48;João Marques;910000048;cliente048@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1161;58;Bruno Fernandes;910000058;cliente058@example.com;Inception;Terra;2026-12-07;14:00;ESTUDANTE;7.50
+B880;71;Manuel Cardoso;910000071;cliente071@example.com;Gladiator;Terra;2026-12-05;18:00;NORMAL;9.50
+B524;72;Mariana Rocha;910000072;cliente072@example.com;Spirited Away;Mar;2026-12-03;18:00;NORMAL;8.50
+B967;34;Hugo Gomes;910000034;cliente034@example.com;Jurassic Park;Mar;2026-12-06;14:00;ESTUDANTE;6.50
+B288;59;Inês Moreira;910000059;cliente059@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B695;43;Teresa Reis;910000043;cliente043@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;NORMAL;8.50
+B1364;29;Duarte Fernandes;910000029;cliente029@example.com;The Lion King;Mar;2026-12-08;18:00;NORMAL;8.50
+B1198;59;Inês Moreira;910000059;cliente059@example.com;Inception;Terra;2026-12-07;18:00;ESTUDANTE;7.50
+B1308;82;Madalena Ramos;910000082;cliente082@example.com;WALL-E;Mar;2026-12-08;14:00;NORMAL;8.50
+B1210;100;Catarina Marques;910000100;cliente100@example.com;Inception;Terra;2026-12-07;18:00;ESTUDANTE;7.50
+B528;64;Afonso Rodrigues;910000064;cliente064@example.com;Spirited Away;Mar;2026-12-03;18:00;ESTUDANTE;6.50
+B553;24;Duarte Mendes;910000024;cliente024@example.com;Inside Out;Terra;2026-12-03;14:00;NORMAL;9.50
+B1017;71;Manuel Cardoso;910000071;cliente071@example.com;Interstellar;Terra;2026-12-06;14:00;NORMAL;9.50
+B248;9;Rui Rodrigues;910000009;cliente009@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B434;50;Teresa Vieira;910000050;cliente050@example.com;The Lion King;Sol;2026-12-02;18:00;NORMAL;10.50
+B563;50;Teresa Vieira;910000050;cliente050@example.com;Inside Out;Terra;2026-12-03;14:00;ESTUDANTE;7.50
+B1342;82;Madalena Ramos;910000082;cliente082@example.com;The Lion King;Mar;2026-12-08;18:00;NORMAL;8.50
+B881;64;Afonso Rodrigues;910000064;cliente064@example.com;Gladiator;Terra;2026-12-05;18:00;NORMAL;9.50
+B537;96;Inês Cardoso;910000096;cliente096@example.com;Inside Out;Terra;2026-12-03;14:00;NORMAL;9.50
+B752;84;Eduarda Ramos;910000084;cliente084@example.com;The Shawshank Redemption;Terra;2026-12-04;18:00;NORMAL;9.50
+B483;35;Mariana Marques;910000035;cliente035@example.com;Ratatouille;Mar;2026-12-03;14:00;ESTUDANTE;6.50
+B710;87;Francisco Correia;910000087;cliente087@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;ESTUDANTE;6.50
+B801;51;Gonçalo Costa;910000051;cliente051@example.com;Whiplash;Mar;2026-12-05;14:00;ESTUDANTE;6.50
+B502;61;Ricardo Lopes;910000061;cliente061@example.com;Spirited Away;Mar;2026-12-03;18:00;ESTUDANTE;6.50
+B1124;40;Catarina Neves;910000040;cliente040@example.com;Shrek;Mar;2026-12-07;14:00;NORMAL;8.50
+B958;94;Miguel Matos;910000094;cliente094@example.com;Jurassic Park;Mar;2026-12-06;14:00;NORMAL;8.50
+B890;15;Bruno Santos;910000015;cliente015@example.com;Gladiator;Terra;2026-12-05;18:00;NORMAL;9.50
+B617;67;André Almeida;910000067;cliente067@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B657;39;Vera Dias;910000039;cliente039@example.com;Groundhog Day;Mar;2026-12-04;14:00;ESTUDANTE;6.50
+B774;28;Diana Reis;910000028;cliente028@example.com;Whiplash;Mar;2026-12-05;14:00;NORMAL;8.50
+B029;25;Joana Rocha;910000025;cliente025@example.com;Interstellar;Mar;2026-12-01;18:00;ESTUDANTE;6.50
+B1125;87;Francisco Correia;910000087;cliente087@example.com;Shrek;Mar;2026-12-07;14:00;NORMAL;8.50
+B1005;5;Leonor Santos;910000005;cliente005@example.com;Interstellar;Terra;2026-12-06;14:00;NORMAL;9.50
+B170;99;Carolina Gomes;910000099;cliente099@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B038;90;Luís Sousa;910000090;cliente090@example.com;Interstellar;Mar;2026-12-01;18:00;NORMAL;8.50
+B740;10;António Rocha;910000010;cliente010@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;NORMAL;9.50
+B071;36;Manuel Fernandes;910000036;cliente036@example.com;Inception;Terra;2026-12-01;14:00;NORMAL;9.50
+B1057;4;Ana Teixeira;910000004;cliente004@example.com;Interstellar;Terra;2026-12-06;18:00;ESTUDANTE;7.50
+B413;8;Gabriela Mendes;910000008;cliente008@example.com;The Lion King;Sol;2026-12-02;18:00;ESTUDANTE;8.50
+B696;10;António Rocha;910000010;cliente010@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;NORMAL;8.50
+B1286;78;Duarte Moreira;910000078;cliente078@example.com;Back to the Future;Sol;2026-12-07;18:00;ESTUDANTE;8.50
+B593;94;Miguel Matos;910000094;cliente094@example.com;Home Alone;Sol;2026-12-03;14:00;NORMAL;10.50
+B1253;16;Gabriela Ribeiro;910000016;cliente016@example.com;The Matrix;Sol;2026-12-07;14:00;SENIOR;9.00
+B629;32;Madalena Ribeiro;910000032;cliente032@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;SENIOR;9.00
+B489;81;Bruno Gomes;910000081;cliente081@example.com;Ratatouille;Mar;2026-12-03;14:00;SENIOR;7.00
+B1277;25;Joana Rocha;910000025;cliente025@example.com;Back to the Future;Sol;2026-12-07;18:00;ESTUDANTE;8.50
+B1191;25;Joana Rocha;910000025;cliente025@example.com;Inception;Terra;2026-12-07;18:00;NORMAL;9.50
+B386;72;Mariana Rocha;910000072;cliente072@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B209;35;Mariana Marques;910000035;cliente035@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B440;75;Bruno Ferreira;910000075;cliente075@example.com;The Lion King;Sol;2026-12-02;18:00;NORMAL;10.50
+B1311;99;Carolina Gomes;910000099;cliente099@example.com;WALL-E;Mar;2026-12-08;14:00;NORMAL;8.50
+B767;89;Carlos Rodrigues;910000089;cliente089@example.com;The Green Mile;Sol;2026-12-04;18:00;NORMAL;10.50
+B189;38;Eduarda Dias;910000038;cliente038@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B007;21;José Moreira;910000021;cliente021@example.com;Interstellar;Mar;2026-12-01;18:00;SENIOR;7.00
+B799;85;Gonçalo Rocha;910000085;cliente085@example.com;Whiplash;Mar;2026-12-05;14:00;NORMAL;8.50
+B1046;48;João Marques;910000048;cliente048@example.com;Interstellar;Terra;2026-12-06;18:00;NORMAL;9.50
+B1381;54;Luís Rodrigues;910000054;cliente054@example.com;Forrest Gump;Terra;2026-12-08;14:00;SENIOR;8.00
+B1424;87;Francisco Correia;910000087;cliente087@example.com;The Dark Knight;Terra;2026-12-08;18:00;NORMAL;9.50
+B458;34;Hugo Gomes;910000034;cliente034@example.com;Ratatouille;Mar;2026-12-03;14:00;NORMAL;8.50
+B1438;44;Teresa Rocha;910000044;cliente044@example.com;The Dark Knight;Terra;2026-12-08;18:00;ESTUDANTE;7.50
+B970;19;Rita Rodrigues;910000019;cliente019@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;NORMAL;8.50
+B946;49;Catarina Martins;910000049;cliente049@example.com;Jurassic Park;Mar;2026-12-06;14:00;SENIOR;7.00
+B180;75;Bruno Ferreira;910000075;cliente075@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B861;87;Francisco Correia;910000087;cliente087@example.com;The Dark Knight;Terra;2026-12-05;14:00;SENIOR;8.00
+B1138;69;Carlos Rocha;910000069;cliente069@example.com;Shrek;Mar;2026-12-07;14:00;NORMAL;8.50
+B827;2;Joaquim Alberto;910000002;quim@example.com;The Truman Show;Mar;2026-12-05;18:00;SENIOR;7.00
+B1231;92;Teresa Neves;910000092;cliente092@example.com;The Matrix;Sol;2026-12-07;14:00;ESTUDANTE;8.50
+B715;48;João Marques;910000048;cliente048@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;NORMAL;8.50
+B684;69;Carlos Rocha;910000069;cliente069@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;NORMAL;8.50
+B959;54;Luís Rodrigues;910000054;cliente054@example.com;Jurassic Park;Mar;2026-12-06;14:00;ESTUDANTE;6.50
+B586;11;Filipa Marques;910000011;cliente011@example.com;Home Alone;Sol;2026-12-03;14:00;NORMAL;10.50
+B429;49;Catarina Martins;910000049;cliente049@example.com;The Lion King;Sol;2026-12-02;18:00;ESTUDANTE;8.50
+B270;97;Carolina Ferreira;910000097;cliente097@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B396;47;Diogo Pereira;910000047;cliente047@example.com;Finding Nemo;Sol;2026-12-02;14:00;ESTUDANTE;8.50
+B1379;64;Afonso Rodrigues;910000064;cliente064@example.com;Forrest Gump;Terra;2026-12-08;14:00;ESTUDANTE;7.50
+B441;72;Mariana Rocha;910000072;cliente072@example.com;The Lion King;Sol;2026-12-02;18:00;NORMAL;10.50
+B1471;18;Hugo Lopes;910000018;cliente018@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;NORMAL;10.50
+B297;81;Bruno Gomes;910000081;cliente081@example.com;Arrival;Mar;2026-12-02;14:00;ESTUDANTE;6.50
+B1297;92;Teresa Neves;910000092;cliente092@example.com;Back to the Future;Sol;2026-12-07;18:00;NORMAL;10.50
+B1266;67;André Almeida;910000067;cliente067@example.com;The Matrix;Sol;2026-12-07;14:00;ESTUDANTE;8.50
+B791;24;Duarte Mendes;910000024;cliente024@example.com;Whiplash;Mar;2026-12-05;14:00;SENIOR;7.00
+B547;75;Bruno Ferreira;910000075;cliente075@example.com;Inside Out;Terra;2026-12-03;14:00;ESTUDANTE;7.50
+B462;18;Hugo Lopes;910000018;cliente018@example.com;Ratatouille;Mar;2026-12-03;14:00;NORMAL;8.50
+B1318;1;Ivone Costa;910000001;ivone@example.com;WALL-E;Mar;2026-12-08;14:00;ESTUDANTE;6.50
+B1133;76;Beatriz Reis;910000076;cliente076@example.com;Shrek;Mar;2026-12-07;14:00;SENIOR;7.00
+B1002;52;Carlos Ferreira;910000052;cliente052@example.com;Interstellar;Terra;2026-12-06;14:00;NORMAL;9.50
+B1258;41;Inês Santos;910000041;cliente041@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B777;79;Madalena Pinto;910000079;cliente079@example.com;Whiplash;Mar;2026-12-05;14:00;ESTUDANTE;6.50
+B891;85;Gonçalo Rocha;910000085;cliente085@example.com;Gladiator;Terra;2026-12-05;18:00;ESTUDANTE;7.50
+B1219;17;Miguel Ribeiro;910000017;cliente017@example.com;Inception;Terra;2026-12-07;18:00;NORMAL;9.50
+B585;18;Hugo Lopes;910000018;cliente018@example.com;Home Alone;Sol;2026-12-03;14:00;ESTUDANTE;8.50
+B392;74;Inês Vieira;910000074;cliente074@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B681;1;Ivone Costa;910000001;ivone@example.com;Groundhog Day;Mar;2026-12-04;14:00;SENIOR;7.00
+B572;64;Afonso Rodrigues;910000064;cliente064@example.com;Paddington 2;Terra;2026-12-03;18:00;SENIOR;8.00
+B1492;78;Duarte Moreira;910000078;cliente078@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;ESTUDANTE;8.50
+B1273;41;Inês Santos;910000041;cliente041@example.com;Back to the Future;Sol;2026-12-07;18:00;ESTUDANTE;8.50
+B474;87;Francisco Correia;910000087;cliente087@example.com;Ratatouille;Mar;2026-12-03;14:00;ESTUDANTE;6.50
+B265;26;Luís Marques;910000026;cliente026@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B128;81;Bruno Gomes;910000081;cliente081@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B1445;84;Eduarda Ramos;910000084;cliente084@example.com;The Dark Knight;Terra;2026-12-08;18:00;NORMAL;9.50
+B176;99;Carolina Gomes;910000099;cliente099@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B1000;45;Madalena Ferreira;910000045;cliente045@example.com;Interstellar;Terra;2026-12-06;14:00;ESTUDANTE;7.50
+B025;8;Gabriela Mendes;910000008;cliente008@example.com;Interstellar;Mar;2026-12-01;18:00;ESTUDANTE;6.50
+B882;32;Madalena Ribeiro;910000032;cliente032@example.com;Gladiator;Terra;2026-12-05;18:00;NORMAL;9.50
+B485;34;Hugo Gomes;910000034;cliente034@example.com;Ratatouille;Mar;2026-12-03;14:00;ESTUDANTE;6.50
+B584;73;José Silva;910000073;cliente073@example.com;Home Alone;Sol;2026-12-03;14:00;SENIOR;9.00
+B609;97;Carolina Ferreira;910000097;cliente097@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B864;20;Bruno Marques;910000020;cliente020@example.com;The Dark Knight;Terra;2026-12-05;14:00;ESTUDANTE;7.50
+B543;10;António Rocha;910000010;cliente010@example.com;Inside Out;Terra;2026-12-03;14:00;NORMAL;9.50
+B578;32;Madalena Ribeiro;910000032;cliente032@example.com;Paddington 2;Terra;2026-12-03;18:00;SENIOR;8.00
+B1442;29;Duarte Fernandes;910000029;cliente029@example.com;The Dark Knight;Terra;2026-12-08;18:00;NORMAL;9.50
+B260;60;Manuel Sousa;910000060;cliente060@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B487;92;Teresa Neves;910000092;cliente092@example.com;Ratatouille;Mar;2026-12-03;14:00;NORMAL;8.50
+B1265;76;Beatriz Reis;910000076;cliente076@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B627;76;Beatriz Reis;910000076;cliente076@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;SENIOR;9.00
+B212;30;Carlos Correia;910000030;cliente030@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B930;76;Beatriz Reis;910000076;cliente076@example.com;Die Hard;Sol;2026-12-05;18:00;SENIOR;9.00
+B1028;71;Manuel Cardoso;910000071;cliente071@example.com;Interstellar;Terra;2026-12-06;14:00;ESTUDANTE;7.50
+B625;100;Catarina Marques;910000100;cliente100@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B784;92;Teresa Neves;910000092;cliente092@example.com;Whiplash;Mar;2026-12-05;14:00;ESTUDANTE;6.50
+B1488;21;José Moreira;910000021;cliente021@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;NORMAL;10.50
+B364;97;Carolina Ferreira;910000097;cliente097@example.com;Finding Nemo;Sol;2026-12-02;14:00;ESTUDANTE;8.50
+B1457;60;Manuel Sousa;910000060;cliente060@example.com;Jurassic Park;Sol;2026-12-08;14:00;NORMAL;10.50
+B1218;2;Joaquim Alberto;910000002;quim@example.com;Inception;Terra;2026-12-07;18:00;NORMAL;9.50
+B1338;11;Filipa Marques;910000011;cliente011@example.com;The Lion King;Mar;2026-12-08;18:00;ESTUDANTE;6.50
+B1045;46;Manuel Pinto;910000046;cliente046@example.com;Interstellar;Terra;2026-12-06;18:00;ESTUDANTE;7.50
+B1234;45;Madalena Ferreira;910000045;cliente045@example.com;The Matrix;Sol;2026-12-07;14:00;ESTUDANTE;8.50
+B631;1;Ivone Costa;910000001;ivone@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B1429;90;Luís Sousa;910000090;cliente090@example.com;The Dark Knight;Terra;2026-12-08;18:00;NORMAL;9.50
+B1034;45;Madalena Ferreira;910000045;cliente045@example.com;Interstellar;Terra;2026-12-06;14:00;NORMAL;9.50
+B398;96;Inês Cardoso;910000096;cliente096@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B1397;15;Bruno Santos;910000015;cliente015@example.com;Forrest Gump;Terra;2026-12-08;14:00;NORMAL;9.50
+B1406;86;Cláudia Teixeira;910000086;cliente086@example.com;Forrest Gump;Terra;2026-12-08;14:00;NORMAL;9.50
+B713;97;Carolina Ferreira;910000097;cliente097@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;NORMAL;8.50
+B1440;30;Carlos Correia;910000030;cliente030@example.com;The Dark Knight;Terra;2026-12-08;18:00;NORMAL;9.50
+B966;67;André Almeida;910000067;cliente067@example.com;Jurassic Park;Mar;2026-12-06;14:00;ESTUDANTE;6.50
+B229;75;Bruno Ferreira;910000075;cliente075@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B820;40;Catarina Neves;910000040;cliente040@example.com;Whiplash;Mar;2026-12-05;14:00;ESTUDANTE;6.50
+B094;29;Duarte Fernandes;910000029;cliente029@example.com;The Matrix;Terra;2026-12-01;18:00;ESTUDANTE;7.50
+B1386;97;Carolina Ferreira;910000097;cliente097@example.com;Forrest Gump;Terra;2026-12-08;14:00;ESTUDANTE;7.50
+B598;58;Bruno Fernandes;910000058;cliente058@example.com;Home Alone;Sol;2026-12-03;14:00;NORMAL;10.50
+B1285;61;Ricardo Lopes;910000061;cliente061@example.com;Back to the Future;Sol;2026-12-07;18:00;NORMAL;10.50
+B855;11;Filipa Marques;910000011;cliente011@example.com;The Truman Show;Mar;2026-12-05;18:00;NORMAL;8.50
+B1403;8;Gabriela Mendes;910000008;cliente008@example.com;Forrest Gump;Terra;2026-12-08;14:00;ESTUDANTE;7.50
+B669;5;Leonor Santos;910000005;cliente005@example.com;Groundhog Day;Mar;2026-12-04;14:00;ESTUDANTE;6.50
+B973;15;Bruno Santos;910000015;cliente015@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;NORMAL;8.50
+B702;70;Duarte Rodrigues;910000070;cliente070@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;ESTUDANTE;6.50
+B374;29;Duarte Fernandes;910000029;cliente029@example.com;Finding Nemo;Sol;2026-12-02;14:00;ESTUDANTE;8.50
+B816;74;Inês Vieira;910000074;cliente074@example.com;Whiplash;Mar;2026-12-05;14:00;ESTUDANTE;6.50
+B442;26;Luís Marques;910000026;cliente026@example.com;The Lion King;Sol;2026-12-02;18:00;ESTUDANTE;8.50
+B1224;76;Beatriz Reis;910000076;cliente076@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B1216;36;Manuel Fernandes;910000036;cliente036@example.com;Inception;Terra;2026-12-07;18:00;ESTUDANTE;7.50
+B927;12;Pedro Correia;910000012;cliente012@example.com;Die Hard;Sol;2026-12-05;18:00;NORMAL;10.50
+B022;16;Gabriela Ribeiro;910000016;cliente016@example.com;Interstellar;Mar;2026-12-01;18:00;NORMAL;8.50
+B310;21;José Moreira;910000021;cliente021@example.com;Dune;Mar;2026-12-02;18:00;NORMAL;8.50
+B1312;68;Cláudia Martins;910000068;cliente068@example.com;WALL-E;Mar;2026-12-08;14:00;NORMAL;8.50
+B775;20;Bruno Marques;910000020;cliente020@example.com;Whiplash;Mar;2026-12-05;14:00;SENIOR;7.00
+B1217;90;Luís Sousa;910000090;cliente090@example.com;Inception;Terra;2026-12-07;18:00;NORMAL;9.50
+B017;47;Diogo Pereira;910000047;cliente047@example.com;Interstellar;Mar;2026-12-01;18:00;ESTUDANTE;6.50
+B1071;94;Miguel Matos;910000094;cliente094@example.com;Interstellar;Sol;2026-12-06;14:00;NORMAL;10.50
+B1351;31;Carlos Teixeira;910000031;cliente031@example.com;The Lion King;Mar;2026-12-08;18:00;NORMAL;8.50
+B726;1;Ivone Costa;910000001;ivone@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;NORMAL;9.50
+B1489;13;Carolina Santos;910000013;cliente013@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;NORMAL;10.50
+B1299;54;Luís Rodrigues;910000054;cliente054@example.com;Back to the Future;Sol;2026-12-07;18:00;NORMAL;10.50
+B581;72;Mariana Rocha;910000072;cliente072@example.com;Paddington 2;Terra;2026-12-03;18:00;SENIOR;8.00
+B143;91;António Ribeiro;910000091;cliente091@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B1118;76;Beatriz Reis;910000076;cliente076@example.com;Shrek;Mar;2026-12-07;14:00;SENIOR;7.00
+B262;36;Manuel Fernandes;910000036;cliente036@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B409;70;Duarte Rodrigues;910000070;cliente070@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B368;53;Rui Teixeira;910000053;cliente053@example.com;Finding Nemo;Sol;2026-12-02;14:00;SENIOR;9.00
+B606;16;Gabriela Ribeiro;910000016;cliente016@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B1270;25;Joana Rocha;910000025;cliente025@example.com;The Matrix;Sol;2026-12-07;14:00;ESTUDANTE;8.50
+B608;15;Bruno Santos;910000015;cliente015@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B806;45;Madalena Ferreira;910000045;cliente045@example.com;Whiplash;Mar;2026-12-05;14:00;ESTUDANTE;6.50
+B1102;68;Cláudia Martins;910000068;cliente068@example.com;Shrek;Mar;2026-12-07;14:00;ESTUDANTE;6.50
+B867;74;Inês Vieira;910000074;cliente074@example.com;The Dark Knight;Terra;2026-12-05;14:00;NORMAL;9.50
+B1465;63;Pedro Mendes;910000063;cliente063@example.com;Jurassic Park;Sol;2026-12-08;14:00;NORMAL;10.50
+B961;29;Duarte Fernandes;910000029;cliente029@example.com;Jurassic Park;Mar;2026-12-06;14:00;NORMAL;8.50
+B1012;26;Luís Marques;910000026;cliente026@example.com;Interstellar;Terra;2026-12-06;14:00;NORMAL;9.50
+B640;85;Gonçalo Rocha;910000085;cliente085@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B1110;81;Bruno Gomes;910000081;cliente081@example.com;Shrek;Mar;2026-12-07;14:00;NORMAL;8.50
+B652;23;Teresa Matos;910000023;cliente023@example.com;Groundhog Day;Mar;2026-12-04;14:00;SENIOR;7.00
+B760;1;Ivone Costa;910000001;ivone@example.com;Forrest Gump;Sol;2026-12-04;14:00;NORMAL;10.50
+B452;85;Gonçalo Rocha;910000085;cliente085@example.com;Ratatouille;Mar;2026-12-03;14:00;NORMAL;8.50
+B380;90;Luís Sousa;910000090;cliente090@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B1307;59;Inês Moreira;910000059;cliente059@example.com;WALL-E;Mar;2026-12-08;14:00;NORMAL;8.50
+B300;36;Manuel Fernandes;910000036;cliente036@example.com;Arrival;Mar;2026-12-02;14:00;NORMAL;8.50
+B1093;79;Madalena Pinto;910000079;cliente079@example.com;Shrek;Sol;2026-12-06;18:00;ESTUDANTE;8.50
+B1412;72;Mariana Rocha;910000072;cliente072@example.com;Forrest Gump;Terra;2026-12-08;14:00;SENIOR;8.00
+B834;65;Ricardo Rocha;910000065;cliente065@example.com;The Truman Show;Mar;2026-12-05;18:00;NORMAL;8.50
+B1171;18;Hugo Lopes;910000018;cliente018@example.com;Inception;Terra;2026-12-07;14:00;NORMAL;9.50
+B1499;22;Leonor Rocha;910000022;cliente022@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;ESTUDANTE;8.50
+B708;25;Joana Rocha;910000025;cliente025@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;NORMAL;8.50
+B1264;63;Pedro Mendes;910000063;cliente063@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B1007;61;Ricardo Lopes;910000061;cliente061@example.com;Interstellar;Terra;2026-12-06;14:00;NORMAL;9.50
+B087;48;João Marques;910000048;cliente048@example.com;The Matrix;Terra;2026-12-01;18:00;NORMAL;9.50
+B1327;51;Gonçalo Costa;910000051;cliente051@example.com;WALL-E;Mar;2026-12-08;14:00;NORMAL;8.50
+B345;69;Carlos Rocha;910000069;cliente069@example.com;WALL-E;Terra;2026-12-02;14:00;ESTUDANTE;7.50
+B892;3;Carlos Reis;910000003;cliente003@example.com;Gladiator;Terra;2026-12-05;18:00;NORMAL;9.50
+B125;36;Manuel Fernandes;910000036;cliente036@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B302;2;Joaquim Alberto;910000002;quim@example.com;Dune;Mar;2026-12-02;18:00;NORMAL;8.50
+B781;20;Bruno Marques;910000020;cliente020@example.com;Whiplash;Mar;2026-12-05;14:00;NORMAL;8.50
+B539;80;Bruno Ribeiro;910000080;cliente080@example.com;Inside Out;Terra;2026-12-03;14:00;ESTUDANTE;7.50
+B574;62;Ricardo Gomes;910000062;cliente062@example.com;Paddington 2;Terra;2026-12-03;18:00;NORMAL;9.50
+B556;48;João Marques;910000048;cliente048@example.com;Inside Out;Terra;2026-12-03;14:00;NORMAL;9.50
+B1148;31;Carlos Teixeira;910000031;cliente031@example.com;Inception;Mar;2026-12-07;18:00;ESTUDANTE;6.50
+B1290;99;Carolina Gomes;910000099;cliente099@example.com;Back to the Future;Sol;2026-12-07;18:00;NORMAL;10.50
+B162;26;Luís Marques;910000026;cliente026@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B1235;72;Mariana Rocha;910000072;cliente072@example.com;The Matrix;Sol;2026-12-07;14:00;ESTUDANTE;8.50
+B123;41;Inês Santos;910000041;cliente041@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B086;24;Duarte Mendes;910000024;cliente024@example.com;The Matrix;Terra;2026-12-01;18:00;NORMAL;9.50
+B532;90;Luís Sousa;910000090;cliente090@example.com;Spirited Away;Mar;2026-12-03;18:00;ESTUDANTE;6.50
+B1020;13;Carolina Santos;910000013;cliente013@example.com;Interstellar;Terra;2026-12-06;14:00;ESTUDANTE;7.50
+B1478;37;Catarina Correia;910000037;cliente037@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;NORMAL;10.50
+B1244;1;Ivone Costa;910000001;ivone@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B751;92;Teresa Neves;910000092;cliente092@example.com;The Shawshank Redemption;Terra;2026-12-04;18:00;SENIOR;8.00
+B1385;81;Bruno Gomes;910000081;cliente081@example.com;Forrest Gump;Terra;2026-12-08;14:00;NORMAL;9.50
+B665;17;Miguel Ribeiro;910000017;cliente017@example.com;Groundhog Day;Mar;2026-12-04;14:00;NORMAL;8.50
+B1089;79;Madalena Pinto;910000079;cliente079@example.com;Shrek;Sol;2026-12-06;18:00;NORMAL;10.50
+B447;56;Ana Ribeiro;910000056;cliente056@example.com;The Lion King;Sol;2026-12-02;18:00;NORMAL;10.50
+B454;44;Teresa Rocha;910000044;cliente044@example.com;Ratatouille;Mar;2026-12-03;14:00;NORMAL;8.50
+B421;20;Bruno Marques;910000020;cliente020@example.com;The Lion King;Sol;2026-12-02;18:00;NORMAL;10.50
+B632;4;Ana Teixeira;910000004;cliente004@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B1469;48;João Marques;910000048;cliente048@example.com;Jurassic Park;Sol;2026-12-08;14:00;NORMAL;10.50
+B648;3;Carlos Reis;910000003;cliente003@example.com;Groundhog Day;Mar;2026-12-04;14:00;SENIOR;7.00
+B965;95;Afonso Gomes;910000095;cliente095@example.com;Jurassic Park;Mar;2026-12-06;14:00;NORMAL;8.50
+B226;82;Madalena Ramos;910000082;cliente082@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B309;95;Afonso Gomes;910000095;cliente095@example.com;Dune;Mar;2026-12-02;18:00;NORMAL;8.50
+B194;58;Bruno Fernandes;910000058;cliente058@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1324;58;Bruno Fernandes;910000058;cliente058@example.com;WALL-E;Mar;2026-12-08;14:00;ESTUDANTE;6.50
+B1454;29;Duarte Fernandes;910000029;cliente029@example.com;Jurassic Park;Sol;2026-12-08;14:00;NORMAL;10.50
+B792;21;José Moreira;910000021;cliente021@example.com;Whiplash;Mar;2026-12-05;14:00;NORMAL;8.50
+B431;60;Manuel Sousa;910000060;cliente060@example.com;The Lion King;Sol;2026-12-02;18:00;NORMAL;10.50
+B1105;67;André Almeida;910000067;cliente067@example.com;Shrek;Mar;2026-12-07;14:00;SENIOR;7.00
+B982;38;Eduarda Dias;910000038;cliente038@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;NORMAL;8.50
+B1304;30;Carlos Correia;910000030;cliente030@example.com;WALL-E;Mar;2026-12-08;14:00;SENIOR;7.00
+B509;68;Cláudia Martins;910000068;cliente068@example.com;Spirited Away;Mar;2026-12-03;18:00;ESTUDANTE;6.50
+B444;54;Luís Rodrigues;910000054;cliente054@example.com;The Lion King;Sol;2026-12-02;18:00;ESTUDANTE;8.50
+B670;36;Manuel Fernandes;910000036;cliente036@example.com;Groundhog Day;Mar;2026-12-04;14:00;ESTUDANTE;6.50
+B896;11;Filipa Marques;910000011;cliente011@example.com;Mad Max: Fury Road;Sol;2026-12-05;14:00;SENIOR;9.00
+B703;90;Luís Sousa;910000090;cliente090@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;NORMAL;8.50
+B735;63;Pedro Mendes;910000063;cliente063@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;NORMAL;9.50
+B085;35;Mariana Marques;910000035;cliente035@example.com;The Matrix;Terra;2026-12-01;18:00;NORMAL;9.50
+B284;27;Sofia Cardoso;910000027;cliente027@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1333;22;Leonor Rocha;910000022;cliente022@example.com;The Lion King;Mar;2026-12-08;18:00;NORMAL;8.50
+B902;38;Eduarda Dias;910000038;cliente038@example.com;Mad Max: Fury Road;Sol;2026-12-05;14:00;SENIOR;9.00
+B680;88;Duarte Vieira;910000088;cliente088@example.com;Groundhog Day;Mar;2026-12-04;14:00;NORMAL;8.50
+B935;82;Madalena Ramos;910000082;cliente082@example.com;Jurassic Park;Mar;2026-12-06;14:00;SENIOR;7.00
+B148;79;Madalena Pinto;910000079;cliente079@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B758;75;Bruno Ferreira;910000075;cliente075@example.com;Forrest Gump;Sol;2026-12-04;14:00;ESTUDANTE;8.50
+B575;15;Bruno Santos;910000015;cliente015@example.com;Paddington 2;Terra;2026-12-03;18:00;ESTUDANTE;7.50
+B538;40;Catarina Neves;910000040;cliente040@example.com;Inside Out;Terra;2026-12-03;14:00;NORMAL;9.50
+B459;35;Mariana Marques;910000035;cliente035@example.com;Ratatouille;Mar;2026-12-03;14:00;NORMAL;8.50
+B843;82;Madalena Ramos;910000082;cliente082@example.com;The Truman Show;Mar;2026-12-05;18:00;ESTUDANTE;6.50
+B379;98;Carlos Oliveira;910000098;cliente098@example.com;Finding Nemo;Sol;2026-12-02;14:00;ESTUDANTE;8.50
+B080;89;Carlos Rodrigues;910000089;cliente089@example.com;Inception;Terra;2026-12-01;14:00;NORMAL;9.50
+B1356;54;Luís Rodrigues;910000054;cliente054@example.com;The Lion King;Mar;2026-12-08;18:00;NORMAL;8.50
+B1376;3;Carlos Reis;910000003;cliente003@example.com;Forrest Gump;Terra;2026-12-08;14:00;ESTUDANTE;7.50
+B1384;48;João Marques;910000048;cliente048@example.com;Forrest Gump;Terra;2026-12-08;14:00;NORMAL;9.50
+B169;9;Rui Rodrigues;910000009;cliente009@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1050;77;Bruno Ramos;910000077;cliente077@example.com;Interstellar;Terra;2026-12-06;18:00;ESTUDANTE;7.50
+B1291;34;Hugo Gomes;910000034;cliente034@example.com;Back to the Future;Sol;2026-12-07;18:00;ESTUDANTE;8.50
+B236;14;Nuno Silva;910000014;cliente014@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B712;99;Carolina Gomes;910000099;cliente099@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;ESTUDANTE;6.50
+B191;33;Diana Silva;910000033;cliente033@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B089;42;Luís Pinto;910000042;cliente042@example.com;The Matrix;Terra;2026-12-01;18:00;SENIOR;8.00
+B098;9;Rui Rodrigues;910000009;cliente009@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B555;22;Leonor Rocha;910000022;cliente022@example.com;Inside Out;Terra;2026-12-03;14:00;ESTUDANTE;7.50
+B221;41;Inês Santos;910000041;cliente041@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B1260;61;Ricardo Lopes;910000061;cliente061@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B141;23;Teresa Matos;910000023;cliente023@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B984;15;Bruno Santos;910000015;cliente015@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;NORMAL;8.50
+B056;59;Inês Moreira;910000059;cliente059@example.com;Shrek;Mar;2026-12-01;14:00;NORMAL;8.50
+B607;16;Gabriela Ribeiro;910000016;cliente016@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;ESTUDANTE;8.50
+B178;55;Helena Silva;910000055;cliente055@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B725;95;Afonso Gomes;910000095;cliente095@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;NORMAL;9.50
+B531;66;Luís Rocha;910000066;cliente066@example.com;Spirited Away;Mar;2026-12-03;18:00;ESTUDANTE;6.50
+B062;63;Pedro Mendes;910000063;cliente063@example.com;Inception;Terra;2026-12-01;14:00;ESTUDANTE;7.50
+B1417;50;Teresa Vieira;910000050;cliente050@example.com;The Dark Knight;Terra;2026-12-08;18:00;ESTUDANTE;7.50
+B253;11;Filipa Marques;910000011;cliente011@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B980;20;Bruno Marques;910000020;cliente020@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;NORMAL;8.50
+B373;7;Carlos Dias;910000007;cliente007@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B620;63;Pedro Mendes;910000063;cliente063@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;SENIOR;9.00
+B336;20;Bruno Marques;910000020;cliente020@example.com;WALL-E;Terra;2026-12-02;14:00;ESTUDANTE;7.50
+B242;28;Diana Reis;910000028;cliente028@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1459;49;Catarina Martins;910000049;cliente049@example.com;Jurassic Park;Sol;2026-12-08;14:00;ESTUDANTE;8.50
+B406;5;Leonor Santos;910000005;cliente005@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B875;62;Ricardo Gomes;910000062;cliente062@example.com;Gladiator;Terra;2026-12-05;18:00;ESTUDANTE;7.50
+B732;91;António Ribeiro;910000091;cliente091@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;ESTUDANTE;7.50
+B353;89;Carlos Rodrigues;910000089;cliente089@example.com;Toy Story;Terra;2026-12-02;18:00;SENIOR;8.00
+B596;85;Gonçalo Rocha;910000085;cliente085@example.com;Home Alone;Sol;2026-12-03;14:00;NORMAL;10.50
+B344;18;Hugo Lopes;910000018;cliente018@example.com;WALL-E;Terra;2026-12-02;14:00;ESTUDANTE;7.50
+B033;3;Carlos Reis;910000003;cliente003@example.com;Interstellar;Mar;2026-12-01;18:00;SENIOR;7.00
+B937;6;Eduarda Costa;910000006;cliente006@example.com;Jurassic Park;Mar;2026-12-06;14:00;NORMAL;8.50
+B034;99;Carolina Gomes;910000099;cliente099@example.com;Interstellar;Mar;2026-12-01;18:00;NORMAL;8.50
+B433;98;Carlos Oliveira;910000098;cliente098@example.com;The Lion King;Sol;2026-12-02;18:00;ESTUDANTE;8.50
+B035;76;Beatriz Reis;910000076;cliente076@example.com;Interstellar;Mar;2026-12-01;18:00;ESTUDANTE;6.50
+B1100;35;Mariana Marques;910000035;cliente035@example.com;Shrek;Mar;2026-12-07;14:00;NORMAL;8.50
+B1383;47;Diogo Pereira;910000047;cliente047@example.com;Forrest Gump;Terra;2026-12-08;14:00;NORMAL;9.50
+B109;85;Gonçalo Rocha;910000085;cliente085@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B560;72;Mariana Rocha;910000072;cliente072@example.com;Inside Out;Terra;2026-12-03;14:00;NORMAL;9.50
+B592;75;Bruno Ferreira;910000075;cliente075@example.com;Home Alone;Sol;2026-12-03;14:00;ESTUDANTE;8.50
+B291;94;Miguel Matos;910000094;cliente094@example.com;E.T. the Extra-Terrestrial;Sol;2026-12-01;18:00;SENIOR;9.00
+B1470;1;Ivone Costa;910000001;ivone@example.com;Jurassic Park;Sol;2026-12-08;14:00;SENIOR;9.00
+B136;43;Teresa Reis;910000043;cliente043@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B956;63;Pedro Mendes;910000063;cliente063@example.com;Jurassic Park;Mar;2026-12-06;14:00;ESTUDANTE;6.50
+B646;6;Eduarda Costa;910000006;cliente006@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B565;53;Rui Teixeira;910000053;cliente053@example.com;Paddington 2;Terra;2026-12-03;18:00;NORMAL;9.50
+B399;4;Ana Teixeira;910000004;cliente004@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B1033;2;Joaquim Alberto;910000002;quim@example.com;Interstellar;Terra;2026-12-06;14:00;NORMAL;9.50
+B1240;53;Rui Teixeira;910000053;cliente053@example.com;The Matrix;Sol;2026-12-07;14:00;ESTUDANTE;8.50
+B356;7;Carlos Dias;910000007;cliente007@example.com;Toy Story;Terra;2026-12-02;18:00;NORMAL;9.50
+B1462;66;Luís Rocha;910000066;cliente066@example.com;Jurassic Park;Sol;2026-12-08;14:00;NORMAL;10.50
+B501;78;Duarte Moreira;910000078;cliente078@example.com;Spirited Away;Mar;2026-12-03;18:00;NORMAL;8.50
+B1368;28;Diana Reis;910000028;cliente028@example.com;The Lion King;Mar;2026-12-08;18:00;ESTUDANTE;6.50
+B1204;39;Vera Dias;910000039;cliente039@example.com;Inception;Terra;2026-12-07;18:00;ESTUDANTE;7.50
+B840;41;Inês Santos;910000041;cliente041@example.com;The Truman Show;Mar;2026-12-05;18:00;NORMAL;8.50
+B1434;11;Filipa Marques;910000011;cliente011@example.com;The Dark Knight;Terra;2026-12-08;18:00;ESTUDANTE;7.50
+B1032;47;Diogo Pereira;910000047;cliente047@example.com;Interstellar;Terra;2026-12-06;14:00;NORMAL;9.50
+B1369;70;Duarte Rodrigues;910000070;cliente070@example.com;The Lion King;Mar;2026-12-08;18:00;NORMAL;8.50
+B1011;38;Eduarda Dias;910000038;cliente038@example.com;Interstellar;Terra;2026-12-06;14:00;ESTUDANTE;7.50
+B1195;87;Francisco Correia;910000087;cliente087@example.com;Inception;Terra;2026-12-07;18:00;ESTUDANTE;7.50
+B088;78;Duarte Moreira;910000078;cliente078@example.com;The Matrix;Terra;2026-12-01;18:00;NORMAL;9.50
+B119;96;Inês Cardoso;910000096;cliente096@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B999;68;Cláudia Martins;910000068;cliente068@example.com;Interstellar;Terra;2026-12-06;14:00;SENIOR;8.00
+B039;93;Hugo Martins;910000093;cliente093@example.com;Interstellar;Mar;2026-12-01;18:00;SENIOR;7.00
+B841;15;Bruno Santos;910000015;cliente015@example.com;The Truman Show;Mar;2026-12-05;18:00;ESTUDANTE;6.50
+B1283;54;Luís Rodrigues;910000054;cliente054@example.com;Back to the Future;Sol;2026-12-07;18:00;ESTUDANTE;8.50
+B111;71;Manuel Cardoso;910000071;cliente071@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B1372;21;José Moreira;910000021;cliente021@example.com;Forrest Gump;Terra;2026-12-08;14:00;ESTUDANTE;7.50
+B239;81;Bruno Gomes;910000081;cliente081@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B1056;19;Rita Rodrigues;910000019;cliente019@example.com;Interstellar;Terra;2026-12-06;18:00;NORMAL;9.50
+B096;10;António Rocha;910000010;cliente010@example.com;The Matrix;Terra;2026-12-01;18:00;NORMAL;9.50
+B240;74;Inês Vieira;910000074;cliente074@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B481;91;António Ribeiro;910000091;cliente091@example.com;Ratatouille;Mar;2026-12-03;14:00;NORMAL;8.50
+B1390;60;Manuel Sousa;910000060;cliente060@example.com;Forrest Gump;Terra;2026-12-08;14:00;NORMAL;9.50
+B078;87;Francisco Correia;910000087;cliente087@example.com;Inception;Terra;2026-12-01;14:00;ESTUDANTE;7.50
+B854;30;Carlos Correia;910000030;cliente030@example.com;The Truman Show;Mar;2026-12-05;18:00;NORMAL;8.50
+B1345;3;Carlos Reis;910000003;cliente003@example.com;The Lion King;Mar;2026-12-08;18:00;NORMAL;8.50
+B198;9;Rui Rodrigues;910000009;cliente009@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B435;92;Teresa Neves;910000092;cliente092@example.com;The Lion King;Sol;2026-12-02;18:00;NORMAL;10.50
+B997;5;Leonor Santos;910000005;cliente005@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;NORMAL;8.50
+B552;77;Bruno Ramos;910000077;cliente077@example.com;Inside Out;Terra;2026-12-03;14:00;SENIOR;8.00
+B220;68;Cláudia Martins;910000068;cliente068@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B222;33;Diana Silva;910000033;cliente033@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B341;73;José Silva;910000073;cliente073@example.com;WALL-E;Terra;2026-12-02;14:00;ESTUDANTE;7.50
+B230;43;Teresa Reis;910000043;cliente043@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B739;80;Bruno Ribeiro;910000080;cliente080@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;NORMAL;9.50
+B1287;97;Carolina Ferreira;910000097;cliente097@example.com;Back to the Future;Sol;2026-12-07;18:00;NORMAL;10.50
+B910;61;Ricardo Lopes;910000061;cliente061@example.com;Mad Max: Fury Road;Sol;2026-12-05;14:00;NORMAL;10.50
+B571;41;Inês Santos;910000041;cliente041@example.com;Paddington 2;Terra;2026-12-03;18:00;ESTUDANTE;7.50
+B1335;46;Manuel Pinto;910000046;cliente046@example.com;The Lion King;Mar;2026-12-08;18:00;ESTUDANTE;6.50
+B513;13;Carolina Santos;910000013;cliente013@example.com;Spirited Away;Mar;2026-12-03;18:00;SENIOR;7.00
+B1453;100;Catarina Marques;910000100;cliente100@example.com;The Dark Knight;Terra;2026-12-08;18:00;NORMAL;9.50
+B1401;90;Luís Sousa;910000090;cliente090@example.com;Forrest Gump;Terra;2026-12-08;14:00;NORMAL;9.50
+B802;34;Hugo Gomes;910000034;cliente034@example.com;Whiplash;Mar;2026-12-05;14:00;NORMAL;8.50
+B603;88;Duarte Vieira;910000088;cliente088@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;SENIOR;9.00
+B688;63;Pedro Mendes;910000063;cliente063@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;NORMAL;8.50
+B473;31;Carlos Teixeira;910000031;cliente031@example.com;Ratatouille;Mar;2026-12-03;14:00;NORMAL;8.50
+B1486;2;Joaquim Alberto;910000002;quim@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;NORMAL;10.50
+B1419;85;Gonçalo Rocha;910000085;cliente085@example.com;The Dark Knight;Terra;2026-12-08;18:00;NORMAL;9.50
+B1320;97;Carolina Ferreira;910000097;cliente097@example.com;WALL-E;Mar;2026-12-08;14:00;NORMAL;8.50
+B488;49;Catarina Martins;910000049;cliente049@example.com;Ratatouille;Mar;2026-12-03;14:00;NORMAL;8.50
+B1395;60;Manuel Sousa;910000060;cliente060@example.com;Forrest Gump;Terra;2026-12-08;14:00;ESTUDANTE;7.50
+B275;87;Francisco Correia;910000087;cliente087@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B842;37;Catarina Correia;910000037;cliente037@example.com;The Truman Show;Mar;2026-12-05;18:00;NORMAL;8.50
+B076;98;Carlos Oliveira;910000098;cliente098@example.com;Inception;Terra;2026-12-01;14:00;NORMAL;9.50
+B605;18;Hugo Lopes;910000018;cliente018@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B747;18;Hugo Lopes;910000018;cliente018@example.com;The Shawshank Redemption;Terra;2026-12-04;18:00;NORMAL;9.50
+B383;1;Ivone Costa;910000001;ivone@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B1015;9;Rui Rodrigues;910000009;cliente009@example.com;Interstellar;Terra;2026-12-06;14:00;SENIOR;8.00
+B031;69;Carlos Rocha;910000069;cliente069@example.com;Interstellar;Mar;2026-12-01;18:00;ESTUDANTE;6.50
+B065;82;Madalena Ramos;910000082;cliente082@example.com;Inception;Terra;2026-12-01;14:00;ESTUDANTE;7.50
+B939;43;Teresa Reis;910000043;cliente043@example.com;Jurassic Park;Mar;2026-12-06;14:00;ESTUDANTE;6.50
+B351;44;Teresa Rocha;910000044;cliente044@example.com;Toy Story;Terra;2026-12-02;18:00;ESTUDANTE;7.50
+B1360;24;Duarte Mendes;910000024;cliente024@example.com;The Lion King;Mar;2026-12-08;18:00;ESTUDANTE;6.50
+B505;78;Duarte Moreira;910000078;cliente078@example.com;Spirited Away;Mar;2026-12-03;18:00;ESTUDANTE;6.50
+B1339;57;Vera Rodrigues;910000057;cliente057@example.com;The Lion King;Mar;2026-12-08;18:00;ESTUDANTE;6.50
+B1136;68;Cláudia Martins;910000068;cliente068@example.com;Shrek;Mar;2026-12-07;14:00;ESTUDANTE;6.50
+B1251;14;Nuno Silva;910000014;cliente014@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B577;12;Pedro Correia;910000012;cliente012@example.com;Paddington 2;Terra;2026-12-03;18:00;NORMAL;9.50
+B171;2;Joaquim Alberto;910000002;quim@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B759;49;Catarina Martins;910000049;cliente049@example.com;Forrest Gump;Sol;2026-12-04;14:00;ESTUDANTE;8.50
+B401;91;António Ribeiro;910000091;cliente091@example.com;Finding Nemo;Sol;2026-12-02;14:00;ESTUDANTE;8.50
+B097;85;Gonçalo Rocha;910000085;cliente085@example.com;The Matrix;Terra;2026-12-01;18:00;NORMAL;9.50
+B1281;30;Carlos Correia;910000030;cliente030@example.com;Back to the Future;Sol;2026-12-07;18:00;NORMAL;10.50
+B1164;33;Diana Silva;910000033;cliente033@example.com;Inception;Terra;2026-12-07;14:00;ESTUDANTE;7.50
+B981;90;Luís Sousa;910000090;cliente090@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;ESTUDANTE;6.50
+B1042;98;Carlos Oliveira;910000098;cliente098@example.com;Interstellar;Terra;2026-12-06;14:00;NORMAL;9.50
+B1472;39;Vera Dias;910000039;cliente039@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;NORMAL;10.50
+B1313;4;Ana Teixeira;910000004;cliente004@example.com;WALL-E;Mar;2026-12-08;14:00;NORMAL;8.50
+B960;92;Teresa Neves;910000092;cliente092@example.com;Jurassic Park;Mar;2026-12-06;14:00;NORMAL;8.50
+B1288;37;Catarina Correia;910000037;cliente037@example.com;Back to the Future;Sol;2026-12-07;18:00;NORMAL;10.50
+B015;43;Teresa Reis;910000043;cliente043@example.com;Interstellar;Mar;2026-12-01;18:00;ESTUDANTE;6.50
+B264;8;Gabriela Mendes;910000008;cliente008@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B1064;93;Hugo Martins;910000093;cliente093@example.com;Interstellar;Sol;2026-12-06;14:00;SENIOR;9.00
+B1098;94;Miguel Matos;910000094;cliente094@example.com;Shrek;Mar;2026-12-07;14:00;ESTUDANTE;6.50
+B324;30;Carlos Correia;910000030;cliente030@example.com;Dune;Mar;2026-12-02;18:00;NORMAL;8.50
+B365;39;Vera Dias;910000039;cliente039@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B1010;83;Marta Ribeiro;910000083;cliente083@example.com;Interstellar;Terra;2026-12-06;14:00;SENIOR;8.00
+B192;92;Teresa Neves;910000092;cliente092@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B794;73;José Silva;910000073;cliente073@example.com;Whiplash;Mar;2026-12-05;14:00;NORMAL;8.50
+B079;97;Carolina Ferreira;910000097;cliente097@example.com;Inception;Terra;2026-12-01;14:00;NORMAL;9.50
+B776;77;Bruno Ramos;910000077;cliente077@example.com;Whiplash;Mar;2026-12-05;14:00;SENIOR;7.00
+B729;94;Miguel Matos;910000094;cliente094@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;NORMAL;9.50
+B281;97;Carolina Ferreira;910000097;cliente097@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B040;88;Duarte Vieira;910000088;cliente088@example.com;Interstellar;Mar;2026-12-01;18:00;ESTUDANTE;6.50
+B635;74;Inês Vieira;910000074;cliente074@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B416;82;Madalena Ramos;910000082;cliente082@example.com;The Lion King;Sol;2026-12-02;18:00;NORMAL;10.50
+B282;40;Catarina Neves;910000040;cliente040@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B771;57;Vera Rodrigues;910000057;cliente057@example.com;The Green Mile;Sol;2026-12-04;18:00;NORMAL;10.50
+B064;54;Luís Rodrigues;910000054;cliente054@example.com;Inception;Terra;2026-12-01;14:00;NORMAL;9.50
+B693;95;Afonso Gomes;910000095;cliente095@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;ESTUDANTE;6.50
+B830;24;Duarte Mendes;910000024;cliente024@example.com;The Truman Show;Mar;2026-12-05;18:00;NORMAL;8.50
+B196;89;Carlos Rodrigues;910000089;cliente089@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B152;7;Carlos Dias;910000007;cliente007@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1254;98;Carlos Oliveira;910000098;cliente098@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B1072;98;Carlos Oliveira;910000098;cliente098@example.com;Interstellar;Sol;2026-12-06;14:00;NORMAL;10.50
+B1252;50;Teresa Vieira;910000050;cliente050@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B054;74;Inês Vieira;910000074;cliente074@example.com;Shrek;Mar;2026-12-01;14:00;NORMAL;8.50
+B1428;3;Carlos Reis;910000003;cliente003@example.com;The Dark Knight;Terra;2026-12-08;18:00;SENIOR;8.00
+B1200;55;Helena Silva;910000055;cliente055@example.com;Inception;Terra;2026-12-07;18:00;ESTUDANTE;7.50
+B1106;64;Afonso Rodrigues;910000064;cliente064@example.com;Shrek;Mar;2026-12-07;14:00;ESTUDANTE;6.50
+B1220;15;Bruno Santos;910000015;cliente015@example.com;Inception;Terra;2026-12-07;18:00;NORMAL;9.50
+B800;35;Mariana Marques;910000035;cliente035@example.com;Whiplash;Mar;2026-12-05;14:00;NORMAL;8.50
+B165;28;Diana Reis;910000028;cliente028@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B295;22;Leonor Rocha;910000022;cliente022@example.com;Arrival;Mar;2026-12-02;14:00;SENIOR;7.00
+B764;72;Mariana Rocha;910000072;cliente072@example.com;Forrest Gump;Sol;2026-12-04;14:00;NORMAL;10.50
+B058;32;Madalena Ribeiro;910000032;cliente032@example.com;Shrek;Mar;2026-12-01;14:00;ESTUDANTE;6.50
+B913;30;Carlos Correia;910000030;cliente030@example.com;Mad Max: Fury Road;Sol;2026-12-05;14:00;NORMAL;10.50
+B1380;35;Mariana Marques;910000035;cliente035@example.com;Forrest Gump;Terra;2026-12-08;14:00;ESTUDANTE;7.50
+B140;91;António Ribeiro;910000091;cliente091@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B1091;73;José Silva;910000073;cliente073@example.com;Shrek;Sol;2026-12-06;18:00;NORMAL;10.50
+B338;42;Luís Pinto;910000042;cliente042@example.com;WALL-E;Terra;2026-12-02;14:00;SENIOR;8.00
+B479;1;Ivone Costa;910000001;ivone@example.com;Ratatouille;Mar;2026-12-03;14:00;NORMAL;8.50
+B636;79;Madalena Pinto;910000079;cliente079@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B018;22;Leonor Rocha;910000022;cliente022@example.com;Interstellar;Mar;2026-12-01;18:00;NORMAL;8.50
+B1332;17;Miguel Ribeiro;910000017;cliente017@example.com;The Lion King;Mar;2026-12-08;18:00;ESTUDANTE;6.50
+B645;40;Catarina Neves;910000040;cliente040@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;ESTUDANTE;8.50
+B1370;31;Carlos Teixeira;910000031;cliente031@example.com;Forrest Gump;Terra;2026-12-08;14:00;NORMAL;9.50
+B1141;17;Miguel Ribeiro;910000017;cliente017@example.com;Inception;Mar;2026-12-07;18:00;ESTUDANTE;6.50
+B407;61;Ricardo Lopes;910000061;cliente061@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B1073;47;Diogo Pereira;910000047;cliente047@example.com;Interstellar;Sol;2026-12-06;14:00;ESTUDANTE;8.50
+B738;6;Eduarda Costa;910000006;cliente006@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;NORMAL;9.50
+B517;2;Joaquim Alberto;910000002;quim@example.com;Spirited Away;Mar;2026-12-03;18:00;NORMAL;8.50
+B147;47;Diogo Pereira;910000047;cliente047@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B655;20;Bruno Marques;910000020;cliente020@example.com;Groundhog Day;Mar;2026-12-04;14:00;NORMAL;8.50
+B812;47;Diogo Pereira;910000047;cliente047@example.com;Whiplash;Mar;2026-12-05;14:00;NORMAL;8.50
+B597;6;Eduarda Costa;910000006;cliente006@example.com;Home Alone;Sol;2026-12-03;14:00;NORMAL;10.50
+B122;1;Ivone Costa;910000001;ivone@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B936;94;Miguel Matos;910000094;cliente094@example.com;Jurassic Park;Mar;2026-12-06;14:00;NORMAL;8.50
+B804;98;Carlos Oliveira;910000098;cliente098@example.com;Whiplash;Mar;2026-12-05;14:00;ESTUDANTE;6.50
+B979;20;Bruno Marques;910000020;cliente020@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;NORMAL;8.50
+B1101;18;Hugo Lopes;910000018;cliente018@example.com;Shrek;Mar;2026-12-07;14:00;NORMAL;8.50
+B1409;85;Gonçalo Rocha;910000085;cliente085@example.com;Forrest Gump;Terra;2026-12-08;14:00;SENIOR;8.00
+B1245;93;Hugo Martins;910000093;cliente093@example.com;The Matrix;Sol;2026-12-07;14:00;ESTUDANTE;8.50
+B321;31;Carlos Teixeira;910000031;cliente031@example.com;Dune;Mar;2026-12-02;18:00;NORMAL;8.50
+B533;3;Carlos Reis;910000003;cliente003@example.com;Spirited Away;Mar;2026-12-03;18:00;NORMAL;8.50
+B1043;20;Bruno Marques;910000020;cliente020@example.com;Interstellar;Terra;2026-12-06;14:00;SENIOR;8.00
+B1067;44;Teresa Rocha;910000044;cliente044@example.com;Interstellar;Sol;2026-12-06;14:00;NORMAL;10.50
+B1225;47;Diogo Pereira;910000047;cliente047@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B1334;55;Helena Silva;910000055;cliente055@example.com;The Lion King;Mar;2026-12-08;18:00;NORMAL;8.50
+B914;19;Rita Rodrigues;910000019;cliente019@example.com;Mad Max: Fury Road;Sol;2026-12-05;14:00;ESTUDANTE;8.50
+B1051;100;Catarina Marques;910000100;cliente100@example.com;Interstellar;Terra;2026-12-06;18:00;NORMAL;9.50
+B1348;35;Mariana Marques;910000035;cliente035@example.com;The Lion King;Mar;2026-12-08;18:00;NORMAL;8.50
+B633;67;André Almeida;910000067;cliente067@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B886;96;Inês Cardoso;910000096;cliente096@example.com;Gladiator;Terra;2026-12-05;18:00;NORMAL;9.50
+B1344;45;Madalena Ferreira;910000045;cliente045@example.com;The Lion King;Mar;2026-12-08;18:00;NORMAL;8.50
+B707;17;Miguel Ribeiro;910000017;cliente017@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;SENIOR;7.00
+B1041;35;Mariana Marques;910000035;cliente035@example.com;Interstellar;Terra;2026-12-06;14:00;SENIOR;8.00
+B1377;53;Rui Teixeira;910000053;cliente053@example.com;Forrest Gump;Terra;2026-12-08;14:00;NORMAL;9.50
+B711;43;Teresa Reis;910000043;cliente043@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;ESTUDANTE;6.50
+B395;18;Hugo Lopes;910000018;cliente018@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B1082;15;Bruno Santos;910000015;cliente015@example.com;Shrek;Sol;2026-12-06;18:00;NORMAL;10.50
+B1480;78;Duarte Moreira;910000078;cliente078@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;NORMAL;10.50
+B529;31;Carlos Teixeira;910000031;cliente031@example.com;Spirited Away;Mar;2026-12-03;18:00;NORMAL;8.50
+B897;58;Bruno Fernandes;910000058;cliente058@example.com;Mad Max: Fury Road;Sol;2026-12-05;14:00;NORMAL;10.50
+B1070;17;Miguel Ribeiro;910000017;cliente017@example.com;Interstellar;Sol;2026-12-06;14:00;SENIOR;9.00
+B822;62;Ricardo Gomes;910000062;cliente062@example.com;The Truman Show;Mar;2026-12-05;18:00;ESTUDANTE;6.50
+B305;27;Sofia Cardoso;910000027;cliente027@example.com;Dune;Mar;2026-12-02;18:00;NORMAL;8.50
+B821;59;Inês Moreira;910000059;cliente059@example.com;The Truman Show;Mar;2026-12-05;18:00;ESTUDANTE;6.50
+B763;7;Carlos Dias;910000007;cliente007@example.com;Forrest Gump;Sol;2026-12-04;14:00;ESTUDANTE;8.50
+B828;73;José Silva;910000073;cliente073@example.com;The Truman Show;Mar;2026-12-05;18:00;ESTUDANTE;6.50
+B508;55;Helena Silva;910000055;cliente055@example.com;Spirited Away;Mar;2026-12-03;18:00;ESTUDANTE;6.50
+B146;91;António Ribeiro;910000091;cliente091@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B1027;45;Madalena Ferreira;910000045;cliente045@example.com;Interstellar;Terra;2026-12-06;14:00;NORMAL;9.50
+B1018;60;Manuel Sousa;910000060;cliente060@example.com;Interstellar;Terra;2026-12-06;14:00;NORMAL;9.50
+B063;17;Miguel Ribeiro;910000017;cliente017@example.com;Inception;Terra;2026-12-01;14:00;SENIOR;8.00
+B157;96;Inês Cardoso;910000096;cliente096@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B385;37;Catarina Correia;910000037;cliente037@example.com;Finding Nemo;Sol;2026-12-02;14:00;ESTUDANTE;8.50
+B156;50;Teresa Vieira;910000050;cliente050@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B644;91;António Ribeiro;910000091;cliente091@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;ESTUDANTE;8.50
+B1127;32;Madalena Ribeiro;910000032;cliente032@example.com;Shrek;Mar;2026-12-07;14:00;SENIOR;7.00
+B167;12;Pedro Correia;910000012;cliente012@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B190;62;Ricardo Gomes;910000062;cliente062@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B932;53;Rui Teixeira;910000053;cliente053@example.com;Jurassic Park;Mar;2026-12-06;14:00;ESTUDANTE;6.50
+B404;33;Diana Silva;910000033;cliente033@example.com;Finding Nemo;Sol;2026-12-02;14:00;SENIOR;9.00
+B358;61;Ricardo Lopes;910000061;cliente061@example.com;Toy Story;Terra;2026-12-02;18:00;SENIOR;8.00
+B1047;8;Gabriela Mendes;910000008;cliente008@example.com;Interstellar;Terra;2026-12-06;18:00;SENIOR;8.00
+B247;2;Joaquim Alberto;910000002;quim@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B412;65;Ricardo Rocha;910000065;cliente065@example.com;The Lion King;Sol;2026-12-02;18:00;SENIOR;9.00
+B1268;20;Bruno Marques;910000020;cliente020@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B766;57;Vera Rodrigues;910000057;cliente057@example.com;The Green Mile;Sol;2026-12-04;18:00;SENIOR;9.00
+B1241;83;Marta Ribeiro;910000083;cliente083@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B510;74;Inês Vieira;910000074;cliente074@example.com;Spirited Away;Mar;2026-12-03;18:00;NORMAL;8.50
+B756;93;Hugo Martins;910000093;cliente093@example.com;Forrest Gump;Sol;2026-12-04;14:00;ESTUDANTE;8.50
+B823;17;Miguel Ribeiro;910000017;cliente017@example.com;The Truman Show;Mar;2026-12-05;18:00;ESTUDANTE;6.50
+B233;12;Pedro Correia;910000012;cliente012@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B643;59;Inês Moreira;910000059;cliente059@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B1262;60;Manuel Sousa;910000060;cliente060@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B303;74;Inês Vieira;910000074;cliente074@example.com;Dune;Mar;2026-12-02;18:00;NORMAL;8.50
+B1109;89;Carlos Rodrigues;910000089;cliente089@example.com;Shrek;Mar;2026-12-07;14:00;NORMAL;8.50
+B972;65;Ricardo Rocha;910000065;cliente065@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;SENIOR;7.00
+B974;66;Luís Rocha;910000066;cliente066@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;NORMAL;8.50
+B557;43;Teresa Reis;910000043;cliente043@example.com;Inside Out;Terra;2026-12-03;14:00;NORMAL;9.50
+B037;73;José Silva;910000073;cliente073@example.com;Interstellar;Mar;2026-12-01;18:00;NORMAL;8.50
+B317;69;Carlos Rocha;910000069;cliente069@example.com;Dune;Mar;2026-12-02;18:00;NORMAL;8.50
+B860;59;Inês Moreira;910000059;cliente059@example.com;The Dark Knight;Terra;2026-12-05;14:00;SENIOR;8.00
+B1267;37;Catarina Correia;910000037;cliente037@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B790;34;Hugo Gomes;910000034;cliente034@example.com;Whiplash;Mar;2026-12-05;14:00;NORMAL;8.50
+B1087;17;Miguel Ribeiro;910000017;cliente017@example.com;Shrek;Sol;2026-12-06;18:00;ESTUDANTE;8.50
+B851;19;Rita Rodrigues;910000019;cliente019@example.com;The Truman Show;Mar;2026-12-05;18:00;SENIOR;7.00
+B911;90;Luís Sousa;910000090;cliente090@example.com;Mad Max: Fury Road;Sol;2026-12-05;14:00;NORMAL;10.50
+B154;41;Inês Santos;910000041;cliente041@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1375;59;Inês Moreira;910000059;cliente059@example.com;Forrest Gump;Terra;2026-12-08;14:00;NORMAL;9.50
+B1414;6;Eduarda Costa;910000006;cliente006@example.com;The Dark Knight;Terra;2026-12-08;18:00;ESTUDANTE;7.50
+B376;46;Manuel Pinto;910000046;cliente046@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B903;49;Catarina Martins;910000049;cliente049@example.com;Mad Max: Fury Road;Sol;2026-12-05;14:00;NORMAL;10.50
+B457;63;Pedro Mendes;910000063;cliente063@example.com;Ratatouille;Mar;2026-12-03;14:00;SENIOR;7.00
+B142;91;António Ribeiro;910000091;cliente091@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B916;22;Leonor Rocha;910000022;cliente022@example.com;Die Hard;Sol;2026-12-05;18:00;ESTUDANTE;8.50
+B866;2;Joaquim Alberto;910000002;quim@example.com;The Dark Knight;Terra;2026-12-05;14:00;ESTUDANTE;7.50
+B346;23;Teresa Matos;910000023;cliente023@example.com;WALL-E;Terra;2026-12-02;14:00;NORMAL;9.50
+B366;61;Ricardo Lopes;910000061;cliente061@example.com;Finding Nemo;Sol;2026-12-02;14:00;NORMAL;10.50
+B672;42;Luís Pinto;910000042;cliente042@example.com;Groundhog Day;Mar;2026-12-04;14:00;ESTUDANTE;6.50
+B1343;3;Carlos Reis;910000003;cliente003@example.com;The Lion King;Mar;2026-12-08;18:00;NORMAL;8.50
+B461;73;José Silva;910000073;cliente073@example.com;Ratatouille;Mar;2026-12-03;14:00;NORMAL;8.50
+B662;54;Luís Rodrigues;910000054;cliente054@example.com;Groundhog Day;Mar;2026-12-04;14:00;NORMAL;8.50
+B286;19;Rita Rodrigues;910000019;cliente019@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B943;8;Gabriela Mendes;910000008;cliente008@example.com;Jurassic Park;Mar;2026-12-06;14:00;NORMAL;8.50
+B929;18;Hugo Lopes;910000018;cliente018@example.com;Die Hard;Sol;2026-12-05;18:00;NORMAL;10.50
+B785;27;Sofia Cardoso;910000027;cliente027@example.com;Whiplash;Mar;2026-12-05;14:00;NORMAL;8.50
+B117;24;Duarte Mendes;910000024;cliente024@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B177;83;Marta Ribeiro;910000083;cliente083@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B835;23;Teresa Matos;910000023;cliente023@example.com;The Truman Show;Mar;2026-12-05;18:00;NORMAL;8.50
+B1491;67;André Almeida;910000067;cliente067@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;SENIOR;9.00
+B1030;66;Luís Rocha;910000066;cliente066@example.com;Interstellar;Terra;2026-12-06;14:00;NORMAL;9.50
+B304;54;Luís Rodrigues;910000054;cliente054@example.com;Dune;Mar;2026-12-02;18:00;NORMAL;8.50
+B237;28;Diana Reis;910000028;cliente028@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B477;77;Bruno Ramos;910000077;cliente077@example.com;Ratatouille;Mar;2026-12-03;14:00;NORMAL;8.50
+B101;12;Pedro Correia;910000012;cliente012@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B660;70;Duarte Rodrigues;910000070;cliente070@example.com;Groundhog Day;Mar;2026-12-04;14:00;NORMAL;8.50
+B149;81;Bruno Gomes;910000081;cliente081@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B120;25;Joana Rocha;910000025;cliente025@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B884;47;Diogo Pereira;910000047;cliente047@example.com;Gladiator;Terra;2026-12-05;18:00;NORMAL;9.50
+B699;38;Eduarda Dias;910000038;cliente038@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;NORMAL;8.50
+B439;46;Manuel Pinto;910000046;cliente046@example.com;The Lion King;Sol;2026-12-02;18:00;NORMAL;10.50
+B314;4;Ana Teixeira;910000004;cliente004@example.com;Dune;Mar;2026-12-02;18:00;ESTUDANTE;6.50
+B082;5;Leonor Santos;910000005;cliente005@example.com;The Matrix;Terra;2026-12-01;18:00;NORMAL;9.50
+B316;30;Carlos Correia;910000030;cliente030@example.com;Dune;Mar;2026-12-02;18:00;NORMAL;8.50
+B525;5;Leonor Santos;910000005;cliente005@example.com;Spirited Away;Mar;2026-12-03;18:00;ESTUDANTE;6.50
+B1353;11;Filipa Marques;910000011;cliente011@example.com;The Lion King;Mar;2026-12-08;18:00;SENIOR;7.00
+B273;13;Carolina Santos;910000013;cliente013@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B907;83;Marta Ribeiro;910000083;cliente083@example.com;Mad Max: Fury Road;Sol;2026-12-05;14:00;ESTUDANTE;8.50
+B357;72;Mariana Rocha;910000072;cliente072@example.com;Toy Story;Terra;2026-12-02;18:00;ESTUDANTE;7.50
+B245;5;Leonor Santos;910000005;cliente005@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B424;55;Helena Silva;910000055;cliente055@example.com;The Lion King;Sol;2026-12-02;18:00;ESTUDANTE;8.50
+B678;77;Bruno Ramos;910000077;cliente077@example.com;Groundhog Day;Mar;2026-12-04;14:00;SENIOR;7.00
+B1450;21;José Moreira;910000021;cliente021@example.com;The Dark Knight;Terra;2026-12-08;18:00;NORMAL;9.50
+B1029;65;Ricardo Rocha;910000065;cliente065@example.com;Interstellar;Terra;2026-12-06;14:00;ESTUDANTE;7.50
+B779;65;Ricardo Rocha;910000065;cliente065@example.com;Whiplash;Mar;2026-12-05;14:00;SENIOR;7.00
+B118;27;Sofia Cardoso;910000027;cliente027@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B661;79;Madalena Pinto;910000079;cliente079@example.com;Groundhog Day;Mar;2026-12-04;14:00;NORMAL;8.50
+B1199;76;Beatriz Reis;910000076;cliente076@example.com;Inception;Terra;2026-12-07;18:00;NORMAL;9.50
+B1331;41;Inês Santos;910000041;cliente041@example.com;The Lion King;Mar;2026-12-08;18:00;NORMAL;8.50
+B1295;35;Mariana Marques;910000035;cliente035@example.com;Back to the Future;Sol;2026-12-07;18:00;ESTUDANTE;8.50
+B1016;93;Hugo Martins;910000093;cliente093@example.com;Interstellar;Terra;2026-12-06;14:00;NORMAL;9.50
+B072;56;Ana Ribeiro;910000056;cliente056@example.com;Inception;Terra;2026-12-01;14:00;SENIOR;8.00
+B899;53;Rui Teixeira;910000053;cliente053@example.com;Mad Max: Fury Road;Sol;2026-12-05;14:00;ESTUDANTE;8.50
+B069;15;Bruno Santos;910000015;cliente015@example.com;Inception;Terra;2026-12-01;14:00;NORMAL;9.50
+B010;18;Hugo Lopes;910000018;cliente018@example.com;Interstellar;Mar;2026-12-01;18:00;NORMAL;8.50
+B869;74;Inês Vieira;910000074;cliente074@example.com;The Dark Knight;Terra;2026-12-05;14:00;ESTUDANTE;7.50
+B449;18;Hugo Lopes;910000018;cliente018@example.com;The Lion King;Sol;2026-12-02;18:00;NORMAL;10.50
+B104;51;Gonçalo Costa;910000051;cliente051@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B418;38;Eduarda Dias;910000038;cliente038@example.com;The Lion King;Sol;2026-12-02;18:00;ESTUDANTE;8.50
+B308;53;Rui Teixeira;910000053;cliente053@example.com;Dune;Mar;2026-12-02;18:00;ESTUDANTE;6.50
+B1196;30;Carlos Correia;910000030;cliente030@example.com;Inception;Terra;2026-12-07;18:00;SENIOR;8.00
+B722;43;Teresa Reis;910000043;cliente043@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;NORMAL;9.50
+B475;43;Teresa Reis;910000043;cliente043@example.com;Ratatouille;Mar;2026-12-03;14:00;ESTUDANTE;6.50
+B182;54;Luís Rodrigues;910000054;cliente054@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B084;49;Catarina Martins;910000049;cliente049@example.com;The Matrix;Terra;2026-12-01;18:00;ESTUDANTE;7.50
+B369;97;Carolina Ferreira;910000097;cliente097@example.com;Finding Nemo;Sol;2026-12-02;14:00;SENIOR;9.00
+B042;39;Vera Dias;910000039;cliente039@example.com;Interstellar;Mar;2026-12-01;18:00;NORMAL;8.50
+B068;84;Eduarda Ramos;910000084;cliente084@example.com;Inception;Terra;2026-12-01;14:00;NORMAL;9.50
+B526;30;Carlos Correia;910000030;cliente030@example.com;Spirited Away;Mar;2026-12-03;18:00;ESTUDANTE;6.50
+B570;11;Filipa Marques;910000011;cliente011@example.com;Paddington 2;Terra;2026-12-03;18:00;NORMAL;9.50
+B1455;23;Teresa Matos;910000023;cliente023@example.com;Jurassic Park;Sol;2026-12-08;14:00;NORMAL;10.50
+B269;42;Luís Pinto;910000042;cliente042@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1447;33;Diana Silva;910000033;cliente033@example.com;The Dark Knight;Terra;2026-12-08;18:00;ESTUDANTE;7.50
+B590;40;Catarina Neves;910000040;cliente040@example.com;Home Alone;Sol;2026-12-03;14:00;NORMAL;10.50
+B941;3;Carlos Reis;910000003;cliente003@example.com;Jurassic Park;Mar;2026-12-06;14:00;ESTUDANTE;6.50
+B1399;89;Carlos Rodrigues;910000089;cliente089@example.com;Forrest Gump;Terra;2026-12-08;14:00;ESTUDANTE;7.50
+B211;41;Inês Santos;910000041;cliente041@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B919;54;Luís Rodrigues;910000054;cliente054@example.com;Die Hard;Sol;2026-12-05;18:00;ESTUDANTE;8.50
+B027;38;Eduarda Dias;910000038;cliente038@example.com;Interstellar;Mar;2026-12-01;18:00;NORMAL;8.50
+B1340;77;Bruno Ramos;910000077;cliente077@example.com;The Lion King;Mar;2026-12-08;18:00;NORMAL;8.50
+B1167;3;Carlos Reis;910000003;cliente003@example.com;Inception;Terra;2026-12-07;14:00;ESTUDANTE;7.50
+B216;94;Miguel Matos;910000094;cliente094@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B844;17;Miguel Ribeiro;910000017;cliente017@example.com;The Truman Show;Mar;2026-12-05;18:00;NORMAL;8.50
+B241;29;Duarte Fernandes;910000029;cliente029@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B106;98;Carlos Oliveira;910000098;cliente098@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B1123;26;Luís Marques;910000026;cliente026@example.com;Shrek;Mar;2026-12-07;14:00;NORMAL;8.50
+B922;60;Manuel Sousa;910000060;cliente060@example.com;Die Hard;Sol;2026-12-05;18:00;NORMAL;10.50
+B520;22;Leonor Rocha;910000022;cliente022@example.com;Spirited Away;Mar;2026-12-03;18:00;NORMAL;8.50
+B139;99;Carolina Gomes;910000099;cliente099@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1062;78;Duarte Moreira;910000078;cliente078@example.com;Interstellar;Sol;2026-12-06;14:00;NORMAL;10.50
+B833;47;Diogo Pereira;910000047;cliente047@example.com;The Truman Show;Mar;2026-12-05;18:00;ESTUDANTE;6.50
+B992;4;Ana Teixeira;910000004;cliente004@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;NORMAL;8.50
+B516;1;Ivone Costa;910000001;ivone@example.com;Spirited Away;Mar;2026-12-03;18:00;NORMAL;8.50
+B865;78;Duarte Moreira;910000078;cliente078@example.com;The Dark Knight;Terra;2026-12-05;14:00;ESTUDANTE;7.50
+B940;69;Carlos Rocha;910000069;cliente069@example.com;Jurassic Park;Mar;2026-12-06;14:00;NORMAL;8.50
+B949;75;Bruno Ferreira;910000075;cliente075@example.com;Jurassic Park;Mar;2026-12-06;14:00;NORMAL;8.50
+B594;84;Eduarda Ramos;910000084;cliente084@example.com;Home Alone;Sol;2026-12-03;14:00;NORMAL;10.50
+B1232;40;Catarina Neves;910000040;cliente040@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B391;26;Luís Marques;910000026;cliente026@example.com;Finding Nemo;Sol;2026-12-02;14:00;ESTUDANTE;8.50
+B780;75;Bruno Ferreira;910000075;cliente075@example.com;Whiplash;Mar;2026-12-05;14:00;NORMAL;8.50
+B1346;96;Inês Cardoso;910000096;cliente096@example.com;The Lion King;Mar;2026-12-08;18:00;NORMAL;8.50
+B174;83;Marta Ribeiro;910000083;cliente083@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B947;17;Miguel Ribeiro;910000017;cliente017@example.com;Jurassic Park;Mar;2026-12-06;14:00;NORMAL;8.50
+B1305;53;Rui Teixeira;910000053;cliente053@example.com;WALL-E;Mar;2026-12-08;14:00;NORMAL;8.50
+B1140;97;Carolina Ferreira;910000097;cliente097@example.com;Shrek;Mar;2026-12-07;14:00;ESTUDANTE;6.50
+B1040;5;Leonor Santos;910000005;cliente005@example.com;Interstellar;Terra;2026-12-06;14:00;NORMAL;9.50
+B126;36;Manuel Fernandes;910000036;cliente036@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B134;95;Afonso Gomes;910000095;cliente095@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B333;28;Diana Reis;910000028;cliente028@example.com;WALL-E;Terra;2026-12-02;14:00;ESTUDANTE;7.50
+B985;50;Teresa Vieira;910000050;cliente050@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;NORMAL;8.50
+B551;9;Rui Rodrigues;910000009;cliente009@example.com;Inside Out;Terra;2026-12-03;14:00;ESTUDANTE;7.50
+B1107;58;Bruno Fernandes;910000058;cliente058@example.com;Shrek;Mar;2026-12-07;14:00;SENIOR;7.00
+B144;55;Helena Silva;910000055;cliente055@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B745;3;Carlos Reis;910000003;cliente003@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;NORMAL;9.50
+B185;93;Hugo Martins;910000093;cliente093@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B1249;31;Carlos Teixeira;910000031;cliente031@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B099;80;Bruno Ribeiro;910000080;cliente080@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1031;93;Hugo Martins;910000093;cliente093@example.com;Interstellar;Terra;2026-12-06;14:00;ESTUDANTE;7.50
+B1449;31;Carlos Teixeira;910000031;cliente031@example.com;The Dark Knight;Terra;2026-12-08;18:00;NORMAL;9.50
+B1257;100;Catarina Marques;910000100;cliente100@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B013;27;Sofia Cardoso;910000027;cliente027@example.com;Interstellar;Mar;2026-12-01;18:00;NORMAL;8.50
+B920;10;António Rocha;910000010;cliente010@example.com;Die Hard;Sol;2026-12-05;18:00;NORMAL;10.50
+B1112;26;Luís Marques;910000026;cliente026@example.com;Shrek;Mar;2026-12-07;14:00;NORMAL;8.50
+B1176;18;Hugo Lopes;910000018;cliente018@example.com;Inception;Terra;2026-12-07;14:00;NORMAL;9.50
+B1063;85;Gonçalo Rocha;910000085;cliente085@example.com;Interstellar;Sol;2026-12-06;14:00;NORMAL;10.50
+B296;34;Hugo Gomes;910000034;cliente034@example.com;Arrival;Mar;2026-12-02;14:00;ESTUDANTE;6.50
+B623;68;Cláudia Martins;910000068;cliente068@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B1099;49;Catarina Martins;910000049;cliente049@example.com;Shrek;Mar;2026-12-07;14:00;NORMAL;8.50
+B704;86;Cláudia Teixeira;910000086;cliente086@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;NORMAL;8.50
+B238;62;Ricardo Gomes;910000062;cliente062@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B306;90;Luís Sousa;910000090;cliente090@example.com;Dune;Mar;2026-12-02;18:00;ESTUDANTE;6.50
+B716;55;Helena Silva;910000055;cliente055@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;NORMAL;8.50
+B320;33;Diana Silva;910000033;cliente033@example.com;Dune;Mar;2026-12-02;18:00;ESTUDANTE;6.50
+B849;99;Carolina Gomes;910000099;cliente099@example.com;The Truman Show;Mar;2026-12-05;18:00;NORMAL;8.50
+B124;93;Hugo Martins;910000093;cliente093@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B952;90;Luís Sousa;910000090;cliente090@example.com;Jurassic Park;Mar;2026-12-06;14:00;ESTUDANTE;6.50
+B1142;47;Diogo Pereira;910000047;cliente047@example.com;Inception;Mar;2026-12-07;18:00;NORMAL;8.50
+B052;14;Nuno Silva;910000014;cliente014@example.com;Shrek;Mar;2026-12-01;14:00;ESTUDANTE;6.50
+B004;71;Manuel Cardoso;910000071;cliente071@example.com;Interstellar;Mar;2026-12-01;18:00;NORMAL;8.50
+B1158;52;Carlos Ferreira;910000052;cliente052@example.com;Inception;Mar;2026-12-07;18:00;ESTUDANTE;6.50
+B909;31;Carlos Teixeira;910000031;cliente031@example.com;Mad Max: Fury Road;Sol;2026-12-05;14:00;NORMAL;10.50
+B067;91;António Ribeiro;910000091;cliente091@example.com;Inception;Terra;2026-12-01;14:00;ESTUDANTE;7.50
+B225;81;Bruno Gomes;910000081;cliente081@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B354;55;Helena Silva;910000055;cliente055@example.com;Toy Story;Terra;2026-12-02;18:00;ESTUDANTE;7.50
+B824;62;Ricardo Gomes;910000062;cliente062@example.com;The Truman Show;Mar;2026-12-05;18:00;ESTUDANTE;6.50
+B181;31;Carlos Teixeira;910000031;cliente031@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B428;44;Teresa Rocha;910000044;cliente044@example.com;The Lion King;Sol;2026-12-02;18:00;ESTUDANTE;8.50
+B1426;28;Diana Reis;910000028;cliente028@example.com;The Dark Knight;Terra;2026-12-08;18:00;ESTUDANTE;7.50
+B061;12;Pedro Correia;910000012;cliente012@example.com;Inception;Terra;2026-12-01;14:00;ESTUDANTE;7.50
+B653;31;Carlos Teixeira;910000031;cliente031@example.com;Groundhog Day;Mar;2026-12-04;14:00;NORMAL;8.50
+B1151;8;Gabriela Mendes;910000008;cliente008@example.com;Inception;Mar;2026-12-07;18:00;NORMAL;8.50
+B1208;15;Bruno Santos;910000015;cliente015@example.com;Inception;Terra;2026-12-07;18:00;NORMAL;9.50
+B1117;75;Bruno Ferreira;910000075;cliente075@example.com;Shrek;Mar;2026-12-07;14:00;SENIOR;7.00
+B041;61;Ricardo Lopes;910000061;cliente061@example.com;Interstellar;Mar;2026-12-01;18:00;NORMAL;8.50
+B876;92;Teresa Neves;910000092;cliente092@example.com;Gladiator;Terra;2026-12-05;18:00;ESTUDANTE;7.50
+B258;66;Luís Rocha;910000066;cliente066@example.com;Back to the Future;Sol;2026-12-01;14:00;ESTUDANTE;8.50
+B744;7;Carlos Dias;910000007;cliente007@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;ESTUDANTE;7.50
+B925;93;Hugo Martins;910000093;cliente093@example.com;Die Hard;Sol;2026-12-05;18:00;NORMAL;10.50
+B918;30;Carlos Correia;910000030;cliente030@example.com;Die Hard;Sol;2026-12-05;18:00;NORMAL;10.50
+B542;43;Teresa Reis;910000043;cliente043@example.com;Inside Out;Terra;2026-12-03;14:00;NORMAL;9.50
+B1205;62;Ricardo Gomes;910000062;cliente062@example.com;Inception;Terra;2026-12-07;18:00;NORMAL;9.50
+B1150;100;Catarina Marques;910000100;cliente100@example.com;Inception;Mar;2026-12-07;18:00;ESTUDANTE;6.50
+B1188;25;Joana Rocha;910000025;cliente025@example.com;Inception;Terra;2026-12-07;18:00;NORMAL;9.50
+B1079;33;Diana Silva;910000033;cliente033@example.com;Interstellar;Sol;2026-12-06;14:00;NORMAL;10.50
+B491;69;Carlos Rocha;910000069;cliente069@example.com;Ratatouille;Mar;2026-12-03;14:00;NORMAL;8.50
+B476;1;Ivone Costa;910000001;ivone@example.com;Ratatouille;Mar;2026-12-03;14:00;NORMAL;8.50
+B114;91;António Ribeiro;910000091;cliente091@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B298;64;Afonso Rodrigues;910000064;cliente064@example.com;Arrival;Mar;2026-12-02;14:00;ESTUDANTE;6.50
+B977;33;Diana Silva;910000033;cliente033@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;NORMAL;8.50
+B083;66;Luís Rocha;910000066;cliente066@example.com;The Matrix;Terra;2026-12-01;18:00;SENIOR;8.00
+B1111;51;Gonçalo Costa;910000051;cliente051@example.com;Shrek;Mar;2026-12-07;14:00;SENIOR;7.00
+B1352;17;Miguel Ribeiro;910000017;cliente017@example.com;The Lion King;Mar;2026-12-08;18:00;NORMAL;8.50
+B610;5;Leonor Santos;910000005;cliente005@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;SENIOR;9.00
+B1422;49;Catarina Martins;910000049;cliente049@example.com;The Dark Knight;Terra;2026-12-08;18:00;NORMAL;9.50
+B1076;95;Afonso Gomes;910000095;cliente095@example.com;Interstellar;Sol;2026-12-06;14:00;ESTUDANTE;8.50
+B011;31;Carlos Teixeira;910000031;cliente031@example.com;Interstellar;Mar;2026-12-01;18:00;NORMAL;8.50
+B1302;96;Inês Cardoso;910000096;cliente096@example.com;WALL-E;Mar;2026-12-08;14:00;ESTUDANTE;6.50
+B691;13;Carolina Santos;910000013;cliente013@example.com;A Cancao de Lisboa;Mar;2026-12-04;18:00;NORMAL;8.50
+B1269;74;Inês Vieira;910000074;cliente074@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B647;8;Gabriela Mendes;910000008;cliente008@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B1186;36;Manuel Fernandes;910000036;cliente036@example.com;Inception;Terra;2026-12-07;14:00;NORMAL;9.50
+B1061;86;Cláudia Teixeira;910000086;cliente086@example.com;Interstellar;Sol;2026-12-06;14:00;NORMAL;10.50
+B1178;65;Ricardo Rocha;910000065;cliente065@example.com;Inception;Terra;2026-12-07;14:00;NORMAL;9.50
+B327;59;Inês Moreira;910000059;cliente059@example.com;Dune;Mar;2026-12-02;18:00;ESTUDANTE;6.50
+B1048;60;Manuel Sousa;910000060;cliente060@example.com;Interstellar;Terra;2026-12-06;18:00;SENIOR;8.00
+B470;80;Bruno Ribeiro;910000080;cliente080@example.com;Ratatouille;Mar;2026-12-03;14:00;ESTUDANTE;6.50
+B978;24;Duarte Mendes;910000024;cliente024@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;ESTUDANTE;6.50
+B859;16;Gabriela Ribeiro;910000016;cliente016@example.com;The Truman Show;Mar;2026-12-05;18:00;NORMAL;8.50
+B164;85;Gonçalo Rocha;910000085;cliente085@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1393;71;Manuel Cardoso;910000071;cliente071@example.com;Forrest Gump;Terra;2026-12-08;14:00;ESTUDANTE;7.50
+B480;35;Mariana Marques;910000035;cliente035@example.com;Ratatouille;Mar;2026-12-03;14:00;NORMAL;8.50
+B043;23;Teresa Matos;910000023;cliente023@example.com;Interstellar;Mar;2026-12-01;18:00;ESTUDANTE;6.50
+B1309;73;José Silva;910000073;cliente073@example.com;WALL-E;Mar;2026-12-08;14:00;ESTUDANTE;6.50
+B673;25;Joana Rocha;910000025;cliente025@example.com;Groundhog Day;Mar;2026-12-04;14:00;NORMAL;8.50
+B674;21;José Moreira;910000021;cliente021@example.com;Groundhog Day;Mar;2026-12-04;14:00;NORMAL;8.50
+B403;6;Eduarda Costa;910000006;cliente006@example.com;Finding Nemo;Sol;2026-12-02;14:00;SENIOR;9.00
+B318;99;Carolina Gomes;910000099;cliente099@example.com;Dune;Mar;2026-12-02;18:00;NORMAL;8.50
+B659;38;Eduarda Dias;910000038;cliente038@example.com;Groundhog Day;Mar;2026-12-04;14:00;NORMAL;8.50
+B1498;44;Teresa Rocha;910000044;cliente044@example.com;Raiders of the Lost Ark;Sol;2026-12-08;18:00;NORMAL;10.50
+B050;44;Teresa Rocha;910000044;cliente044@example.com;Shrek;Mar;2026-12-01;14:00;ESTUDANTE;6.50
+B724;2;Joaquim Alberto;910000002;quim@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;SENIOR;8.00
+B208;98;Carlos Oliveira;910000098;cliente098@example.com;Back to the Future;Sol;2026-12-01;14:00;NORMAL;10.50
+B1359;35;Mariana Marques;910000035;cliente035@example.com;The Lion King;Mar;2026-12-08;18:00;SENIOR;7.00
+B599;48;João Marques;910000048;cliente048@example.com;Home Alone;Sol;2026-12-03;14:00;NORMAL;10.50
+B589;13;Carolina Santos;910000013;cliente013@example.com;Home Alone;Sol;2026-12-03;14:00;NORMAL;10.50
+B1418;23;Teresa Matos;910000023;cliente023@example.com;The Dark Knight;Terra;2026-12-08;18:00;NORMAL;9.50
+B630;38;Eduarda Dias;910000038;cliente038@example.com;The Grand Budapest Hotel;Sol;2026-12-03;18:00;NORMAL;10.50
+B388;53;Rui Teixeira;910000053;cliente053@example.com;Finding Nemo;Sol;2026-12-02;14:00;SENIOR;9.00
+B968;75;Bruno Ferreira;910000075;cliente075@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;NORMAL;8.50
+B339;9;Rui Rodrigues;910000009;cliente009@example.com;WALL-E;Terra;2026-12-02;14:00;NORMAL;9.50
+B1250;78;Duarte Moreira;910000078;cliente078@example.com;The Matrix;Sol;2026-12-07;14:00;NORMAL;10.50
+B731;54;Luís Rodrigues;910000054;cliente054@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;SENIOR;8.00
+B047;45;Madalena Ferreira;910000045;cliente045@example.com;Interstellar;Mar;2026-12-01;18:00;NORMAL;8.50
+B540;97;Carolina Ferreira;910000097;cliente097@example.com;Inside Out;Terra;2026-12-03;14:00;NORMAL;9.50
+B1021;4;Ana Teixeira;910000004;cliente004@example.com;Interstellar;Terra;2026-12-06;14:00;NORMAL;9.50
+B969;80;Bruno Ribeiro;910000080;cliente080@example.com;Raiders of the Lost Ark;Mar;2026-12-06;18:00;NORMAL;8.50
+B1443;38;Eduarda Dias;910000038;cliente038@example.com;The Dark Knight;Terra;2026-12-08;18:00;ESTUDANTE;7.50
+B1120;47;Diogo Pereira;910000047;cliente047@example.com;Shrek;Mar;2026-12-07;14:00;NORMAL;8.50
+B1013;74;Inês Vieira;910000074;cliente074@example.com;Interstellar;Terra;2026-12-06;14:00;NORMAL;9.50
+B951;45;Madalena Ferreira;910000045;cliente045@example.com;Jurassic Park;Mar;2026-12-06;14:00;ESTUDANTE;6.50
+B664;57;Vera Rodrigues;910000057;cliente057@example.com;Groundhog Day;Mar;2026-12-04;14:00;ESTUDANTE;6.50
+B1077;61;Ricardo Lopes;910000061;cliente061@example.com;Interstellar;Sol;2026-12-06;14:00;NORMAL;10.50
+B499;96;Inês Cardoso;910000096;cliente096@example.com;Spirited Away;Mar;2026-12-03;18:00;NORMAL;8.50
+B053;75;Bruno Ferreira;910000075;cliente075@example.com;Shrek;Mar;2026-12-01;14:00;ESTUDANTE;6.50
+B290;40;Catarina Neves;910000040;cliente040@example.com;E.T. the Extra-Terrestrial;Sol;2026-12-01;18:00;NORMAL;10.50
+B826;61;Ricardo Lopes;910000061;cliente061@example.com;The Truman Show;Mar;2026-12-05;18:00;NORMAL;8.50
+B1001;13;Carolina Santos;910000013;cliente013@example.com;Interstellar;Terra;2026-12-06;14:00;SENIOR;8.00
+B893;40;Catarina Neves;910000040;cliente040@example.com;Mad Max: Fury Road;Sol;2026-12-05;14:00;NORMAL;10.50
+B490;70;Duarte Rodrigues;910000070;cliente070@example.com;Ratatouille;Mar;2026-12-03;14:00;ESTUDANTE;6.50
+B1306;67;André Almeida;910000067;cliente067@example.com;WALL-E;Mar;2026-12-08;14:00;ESTUDANTE;6.50
+B437;84;Eduarda Ramos;910000084;cliente084@example.com;The Lion King;Sol;2026-12-02;18:00;NORMAL;10.50
+B512;42;Luís Pinto;910000042;cliente042@example.com;Spirited Away;Mar;2026-12-03;18:00;NORMAL;8.50
+B006;95;Afonso Gomes;910000095;cliente095@example.com;Interstellar;Mar;2026-12-01;18:00;NORMAL;8.50
+B1052;93;Hugo Martins;910000093;cliente093@example.com;Interstellar;Terra;2026-12-06;18:00;NORMAL;9.50
+B733;98;Carlos Oliveira;910000098;cliente098@example.com;O Patio das Cantigas;Terra;2026-12-04;14:00;NORMAL;9.50
+B1179;2;Joaquim Alberto;910000002;quim@example.com;Inception;Terra;2026-12-07;14:00;ESTUDANTE;7.50
+B355;45;Madalena Ferreira;910000045;cliente045@example.com;Toy Story;Terra;2026-12-02;18:00;NORMAL;9.50
+B1408;59;Inês Moreira;910000059;cliente059@example.com;Forrest Gump;Terra;2026-12-08;14:00;ESTUDANTE;7.50
+B895;87;Francisco Correia;910000087;cliente087@example.com;Mad Max: Fury Road;Sol;2026-12-05;14:00;NORMAL;10.50
+B463;42;Luís Pinto;910000042;cliente042@example.com;Ratatouille;Mar;2026-12-03;14:00;NORMAL;8.50
+B1391;2;Joaquim Alberto;910000002;quim@example.com;Forrest Gump;Terra;2026-12-08;14:00;NORMAL;9.50
+B536;72;Mariana Rocha;910000072;cliente072@example.com;Spirited Away;Mar;2026-12-03;18:00;ESTUDANTE;6.50
+B103;24;Duarte Mendes;910000024;cliente024@example.com;Back to the Future;Sol;2026-12-01;14:00;SENIOR;9.00
+B1135;85;Gonçalo Rocha;910000085;cliente085@example.com;Shrek;Mar;2026-12-07;14:00;NORMAL;8.50
+B1396;12;Pedro Correia;910000012;cliente012@example.com;Forrest Gump;Terra;2026-12-08;14:00;NORMAL;9.50
+B915;17;Miguel Ribeiro;910000017;cliente017@example.com;Die Hard;Sol;2026-12-05;18:00;SENIOR;9.00
+B1122;31;Carlos Teixeira;910000031;cliente031@example.com;Shrek;Mar;2026-12-07;14:00;ESTUDANTE;6.50

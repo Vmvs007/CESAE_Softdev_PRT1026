@@ -26,10 +26,10 @@ public class Ex09 {
      * @return Matriz (String) c/ o conteúdo do ficheiro
      * @throws FileNotFoundException Caso o ficheiro não seja encontrado
      */
-    public static String[][] lerFicheiroParaMatriz(String caminho) throws FileNotFoundException {
+    public static String[][] lerFicheiroParaMatriz(String caminho, String separador) throws FileNotFoundException {
 
         int numeroLinhasFicheiro = contarLinhasFicheiro(caminho);
-        int numeroColunasFicheiro = contarColunasFicheiro(caminho, ",");
+        int numeroColunasFicheiro = contarColunasFicheiro(caminho, separador);
 
         String[][] matrizMusicas = new String[numeroLinhasFicheiro - 1][numeroColunasFicheiro];
 
@@ -46,7 +46,7 @@ public class Ex09 {
 
         while (sc.hasNextLine()) {
             String linhaAtual = sc.nextLine();
-            String[] linhaSeparada = linhaAtual.split(",");
+            String[] linhaSeparada = linhaAtual.split(separador);
 
             for (int i = 0; i < linhaSeparada.length; i++) {
                 matrizMusicas[linhaPreencher][i] = linhaSeparada[i];
@@ -111,7 +111,7 @@ public class Ex09 {
                     input.nextLine(); // Limpar o buffer
                     String generoPesquisar = input.nextLine();
 
-                    pesquisarMusicasGenero(matrizMusicas,generoPesquisar);
+                    pesquisarMusicasGenero(matrizMusicas, generoPesquisar);
                     break;
 
                 case 2: // Pesquisa por Artista
@@ -147,7 +147,7 @@ public class Ex09 {
 
 
     public static void main(String[] args) throws FileNotFoundException {
-        String[][] matrizMusicas = lerFicheiroParaMatriz("FicheirosFicha07/exercicio_09.csv");
+        String[][] matrizMusicas = lerFicheiroParaMatriz("FicheirosFicha07/exercicio_09.csv",",");
         menu(matrizMusicas);
     }
 }
